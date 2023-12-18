@@ -1,0 +1,27 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(test, Some(1fdd16fa-f4ee-4b16-81da-8c6738ea1d77), Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Test / test[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to /Users/monicamcguigan/projects/pbt-study/target/scala-2.12/test-classes ...[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mGenSpec:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- between[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + 87 [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- lowercase[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + Y [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- uppercase[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + y [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- lower and upper case[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + b [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- list of length [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + List(1033033828, 490467915, 1293045401, 414571186, 2012347544, 14696513, 240605368, 463329747, 1520642252, 1352876612, 1235510173, 1661487669, 2041281286, 2072132685, 1831780365, 1511158667, 31886089, 567230306, 1059130220, 875584099) [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- list[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + List(1077704317, 886437875, 1116740825, 186814402, 33300363, 1845829264, 733030508, 273374791, 1285542544, 1813304410, 394246893, 2129823655, 1831459047, 62496174, 2040152211) [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- user[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  + User(bUwPnpMzpEKZRok,82) [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 262 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 7[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 1, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 7, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mForcing garbage collection...[0m
+[0m[[0m[32msuccess[0m] [0m[0mTotal time: 2 s, completed 18 Dec 2023, 20:59:43[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m

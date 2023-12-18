@@ -1,0 +1,1076 @@
+2023.12.18 20:10:34 INFO  Started: Metals version 1.2.0 in folders '/Users/monicamcguigan/projects/pbt-study' for client Visual Studio Code 1.85.0.[0m
+2023.12.18 20:10:35 WARN  Build server is not auto-connectable.[0m
+2023.12.18 20:10:35 WARN  no build target for: /Users/monicamcguigan/projects/pbt-study/build.sbt[0m
+2023.12.18 20:10:40 INFO  no build target found for /Users/monicamcguigan/projects/pbt-study/build.sbt. Using presentation compiler with project's scala-library version: 3.3.1[0m
+Dec 18, 2023 8:10:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8
+Dec 18, 2023 8:10:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9
+Dec 18, 2023 8:10:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12
+Dec 18, 2023 8:10:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13
+2023.12.18 20:10:41 WARN  Could not find semantic tokens for: file:///Users/monicamcguigan/projects/pbt-study/build.sbt[0m
+2023.12.18 20:10:41 WARN  Could not find semantic tokens for: file:///Users/monicamcguigan/projects/pbt-study/build.sbt[0m
+2023.12.18 20:10:42 WARN  Could not find semantic tokens for: file:///Users/monicamcguigan/projects/pbt-study/build.sbt[0m
+2023.12.18 20:10:43 WARN  Could not find semantic tokens for: file:///Users/monicamcguigan/projects/pbt-study/build.sbt[0m
+2023.12.18 20:10:43 WARN  Could not find semantic tokens for: file:///Users/monicamcguigan/projects/pbt-study/build.sbt[0m
+2023.12.18 20:10:44 WARN  Could not find semantic tokens for: file:///Users/monicamcguigan/projects/pbt-study/build.sbt[0m
+2023.12.18 20:10:45 WARN  no build target for: /Users/monicamcguigan/projects/pbt-study/build.sbt[0m
+2023.12.18 20:10:45 WARN  Could not find semantic tokens for: file:///Users/monicamcguigan/projects/pbt-study/build.sbt[0m
+2023.12.18 20:10:45 WARN  Could not find semantic tokens for: file:///Users/monicamcguigan/projects/pbt-study/build.sbt[0m
+2023.12.18 20:10:56 WARN  Could not find semantic tokens for: file:///Users/monicamcguigan/projects/pbt-study/build.sbt[0m
+2023.12.18 20:10:56 WARN  Could not find semantic tokens for: file:///Users/monicamcguigan/projects/pbt-study/build.sbt[0m
+2023.12.18 20:10:57 WARN  Could not find semantic tokens for: file:///Users/monicamcguigan/projects/pbt-study/build.sbt[0m
+2023.12.18 20:10:58 WARN  Could not find semantic tokens for: file:///Users/monicamcguigan/projects/pbt-study/build.sbt[0m
+2023.12.18 20:10:58 WARN  Could not find semantic tokens for: file:///Users/monicamcguigan/projects/pbt-study/build.sbt[0m
+2023.12.18 20:10:59 WARN  Could not find semantic tokens for: file:///Users/monicamcguigan/projects/pbt-study/build.sbt[0m
+2023.12.18 20:11:00 WARN  no build target for: /Users/monicamcguigan/projects/pbt-study/build.sbt[0m
+2023.12.18 20:11:00 INFO  skipping build import with status 'Dismissed'[0m
+2023.12.18 20:11:00 WARN  Could not find semantic tokens for: file:///Users/monicamcguigan/projects/pbt-study/build.sbt[0m
+2023.12.18 20:11:00 WARN  Could not find semantic tokens for: file:///Users/monicamcguigan/projects/pbt-study/build.sbt[0m
+2023.12.18 20:11:00 WARN  Could not find semantic tokens for: file:///Users/monicamcguigan/projects/pbt-study/build.sbt[0m
+2023.12.18 20:11:01 WARN  no build target for: /Users/monicamcguigan/projects/pbt-study/build.sbt[0m
+2023.12.18 20:11:01 INFO  skipping build import with status 'Dismissed'[0m
+2023.12.18 20:11:00 WARN  Could not find semantic tokens for: file:///Users/monicamcguigan/projects/pbt-study/build.sbt[0m
+2023.12.18 20:11:01 WARN  Could not find semantic tokens for: file:///Users/monicamcguigan/projects/pbt-study/build.sbt[0m
+2023.12.18 20:11:02 WARN  Could not find semantic tokens for: file:///Users/monicamcguigan/projects/pbt-study/build.sbt[0m
+2023.12.18 20:11:03 WARN  no build target for: /Users/monicamcguigan/projects/pbt-study/build.sbt[0m
+2023.12.18 20:11:03 INFO  skipping build import with status 'Dismissed'[0m
+2023.12.18 20:11:03 WARN  Could not find semantic tokens for: file:///Users/monicamcguigan/projects/pbt-study/build.sbt[0m
+2023.12.18 20:11:03 WARN  Could not find semantic tokens for: file:///Users/monicamcguigan/projects/pbt-study/build.sbt[0m
+2023.12.18 20:11:04 WARN  Could not find semantic tokens for: file:///Users/monicamcguigan/projects/pbt-study/build.sbt[0m
+2023.12.18 20:11:04 WARN  Could not find semantic tokens for: file:///Users/monicamcguigan/projects/pbt-study/build.sbt[0m
+2023.12.18 20:11:05 WARN  Could not find semantic tokens for: file:///Users/monicamcguigan/projects/pbt-study/build.sbt[0m
+2023.12.18 20:11:06 WARN  Could not find semantic tokens for: file:///Users/monicamcguigan/projects/pbt-study/build.sbt[0m
+2023.12.18 20:11:07 WARN  no build target for: /Users/monicamcguigan/projects/pbt-study/build.sbt[0m
+2023.12.18 20:11:07 INFO  skipping build import with status 'Dismissed'[0m
+2023.12.18 20:11:07 WARN  Could not find semantic tokens for: file:///Users/monicamcguigan/projects/pbt-study/build.sbt[0m
+2023.12.18 20:11:07 WARN  Could not find semantic tokens for: file:///Users/monicamcguigan/projects/pbt-study/build.sbt[0m
+2023.12.18 20:11:08 WARN  Could not find semantic tokens for: file:///Users/monicamcguigan/projects/pbt-study/build.sbt[0m
+2023.12.18 20:11:08 WARN  Could not find semantic tokens for: file:///Users/monicamcguigan/projects/pbt-study/build.sbt[0m
+2023.12.18 20:11:09 WARN  Could not find semantic tokens for: file:///Users/monicamcguigan/projects/pbt-study/build.sbt[0m
+2023.12.18 20:11:10 WARN  Could not find semantic tokens for: file:///Users/monicamcguigan/projects/pbt-study/build.sbt[0m
+2023.12.18 20:11:11 WARN  Could not find semantic tokens for: file:///Users/monicamcguigan/projects/pbt-study/build.sbt[0m
+2023.12.18 20:11:11 WARN  no build target for: /Users/monicamcguigan/projects/pbt-study/build.sbt[0m
+2023.12.18 20:11:11 INFO  skipping build import with status 'Dismissed'[0m
+2023.12.18 20:11:11 WARN  Could not find semantic tokens for: file:///Users/monicamcguigan/projects/pbt-study/build.sbt[0m
+2023.12.18 20:11:11 WARN  Could not find semantic tokens for: file:///Users/monicamcguigan/projects/pbt-study/build.sbt[0m
+2023.12.18 20:11:11 WARN  Could not find semantic tokens for: file:///Users/monicamcguigan/projects/pbt-study/build.sbt[0m
+2023.12.18 20:11:13 WARN  Could not find semantic tokens for: file:///Users/monicamcguigan/projects/pbt-study/build.sbt[0m
+2023.12.18 20:11:14 WARN  Could not find semantic tokens for: file:///Users/monicamcguigan/projects/pbt-study/build.sbt[0m
+2023.12.18 20:11:15 WARN  Could not find semantic tokens for: file:///Users/monicamcguigan/projects/pbt-study/build.sbt[0m
+2023.12.18 20:11:16 WARN  Could not find semantic tokens for: file:///Users/monicamcguigan/projects/pbt-study/build.sbt[0m
+2023.12.18 20:11:16 WARN  Could not find semantic tokens for: file:///Users/monicamcguigan/projects/pbt-study/build.sbt[0m
+2023.12.18 20:11:17 WARN  Could not find semantic tokens for: file:///Users/monicamcguigan/projects/pbt-study/build.sbt[0m
+2023.12.18 20:11:17 WARN  Could not find semantic tokens for: file:///Users/monicamcguigan/projects/pbt-study/build.sbt[0m
+2023.12.18 20:11:18 WARN  Could not find semantic tokens for: file:///Users/monicamcguigan/projects/pbt-study/build.sbt[0m
+2023.12.18 20:11:19 WARN  Could not find semantic tokens for: file:///Users/monicamcguigan/projects/pbt-study/build.sbt[0m
+2023.12.18 20:11:20 WARN  Could not find semantic tokens for: file:///Users/monicamcguigan/projects/pbt-study/build.sbt[0m
+2023.12.18 20:11:20 WARN  Could not find semantic tokens for: file:///Users/monicamcguigan/projects/pbt-study/build.sbt[0m
+2023.12.18 20:11:21 WARN  no build target for: /Users/monicamcguigan/projects/pbt-study/build.sbt[0m
+2023.12.18 20:11:21 INFO  skipping build import with status 'Dismissed'[0m
+2023.12.18 20:11:21 WARN  Could not find semantic tokens for: file:///Users/monicamcguigan/projects/pbt-study/build.sbt[0m
+2023.12.18 20:11:21 WARN  Could not find semantic tokens for: file:///Users/monicamcguigan/projects/pbt-study/build.sbt[0m
+2023.12.18 20:11:22 WARN  Could not find semantic tokens for: file:///Users/monicamcguigan/projects/pbt-study/build.sbt[0m
+2023.12.18 20:11:22 WARN  Could not find semantic tokens for: file:///Users/monicamcguigan/projects/pbt-study/build.sbt[0m
+2023.12.18 20:11:23 WARN  Could not find semantic tokens for: file:///Users/monicamcguigan/projects/pbt-study/build.sbt[0m
+2023.12.18 20:11:23 WARN  Could not find semantic tokens for: file:///Users/monicamcguigan/projects/pbt-study/build.sbt[0m
+2023.12.18 20:11:25 WARN  Could not find semantic tokens for: file:///Users/monicamcguigan/projects/pbt-study/build.sbt[0m
+2023.12.18 20:11:26 WARN  Could not find semantic tokens for: file:///Users/monicamcguigan/projects/pbt-study/build.sbt[0m
+2023.12.18 20:11:27 WARN  Could not find semantic tokens for: file:///Users/monicamcguigan/projects/pbt-study/build.sbt[0m
+2023.12.18 20:11:28 WARN  Could not find semantic tokens for: file:///Users/monicamcguigan/projects/pbt-study/build.sbt[0m
+2023.12.18 20:11:28 WARN  no build target for: /Users/monicamcguigan/projects/pbt-study/build.sbt[0m
+2023.12.18 20:11:28 INFO  skipping build import with status 'Dismissed'[0m
+2023.12.18 20:11:28 WARN  Could not find semantic tokens for: file:///Users/monicamcguigan/projects/pbt-study/build.sbt[0m
+2023.12.18 20:11:28 WARN  Could not find semantic tokens for: file:///Users/monicamcguigan/projects/pbt-study/build.sbt[0m
+2023.12.18 20:11:29 WARN  Could not find semantic tokens for: file:///Users/monicamcguigan/projects/pbt-study/build.sbt[0m
+2023.12.18 20:11:30 WARN  Could not find semantic tokens for: file:///Users/monicamcguigan/projects/pbt-study/build.sbt[0m
+2023.12.18 20:11:30 WARN  no build target for: /Users/monicamcguigan/projects/pbt-study/build.sbt[0m
+2023.12.18 20:11:30 INFO  skipping build import with status 'Dismissed'[0m
+2023.12.18 20:11:30 WARN  Could not find semantic tokens for: file:///Users/monicamcguigan/projects/pbt-study/build.sbt[0m
+2023.12.18 20:11:30 WARN  Could not find semantic tokens for: file:///Users/monicamcguigan/projects/pbt-study/build.sbt[0m
+2023.12.18 20:11:33 WARN  Could not find semantic tokens for: file:///Users/monicamcguigan/projects/pbt-study/build.sbt[0m
+2023.12.18 20:11:33 WARN  Could not find semantic tokens for: file:///Users/monicamcguigan/projects/pbt-study/build.sbt[0m
+2023.12.18 20:11:34 WARN  Could not find semantic tokens for: file:///Users/monicamcguigan/projects/pbt-study/build.sbt[0m
+2023.12.18 20:11:34 WARN  Could not find semantic tokens for: file:///Users/monicamcguigan/projects/pbt-study/build.sbt[0m
+2023.12.18 20:11:35 WARN  Could not find semantic tokens for: file:///Users/monicamcguigan/projects/pbt-study/build.sbt[0m
+2023.12.18 20:11:36 WARN  Could not find semantic tokens for: file:///Users/monicamcguigan/projects/pbt-study/build.sbt[0m
+2023.12.18 20:11:42 WARN  no build target for: /Users/monicamcguigan/projects/pbt-study/build.sbt[0m
+2023.12.18 20:11:42 INFO  skipping build import with status 'Dismissed'[0m
+2023.12.18 20:11:44 WARN  no build target for: /Users/monicamcguigan/projects/pbt-study/build.sbt[0m
+2023.12.18 20:11:44 INFO  skipping build import with status 'Dismissed'[0m
+2023.12.18 20:11:53 WARN  no build target for: /Users/monicamcguigan/projects/pbt-study/build.sbt[0m
+2023.12.18 20:11:53 INFO  skipping build import with status 'Dismissed'[0m
+2023.12.18 20:11:58 WARN  no build target for: /Users/monicamcguigan/projects/pbt-study/build.sbt[0m
+2023.12.18 20:11:58 INFO  skipping build import with status 'Dismissed'[0m
+2023.12.18 20:12:01 WARN  no build target for: /Users/monicamcguigan/projects/pbt-study/build.sbt[0m
+2023.12.18 20:12:01 INFO  skipping build import with status 'Dismissed'[0m
+2023.12.18 20:12:06 WARN  no build target for: /Users/monicamcguigan/projects/pbt-study/build.sbt[0m
+2023.12.18 20:12:06 INFO  skipping build import with status 'Dismissed'[0m
+2023.12.18 20:12:12 WARN  no build target for: /Users/monicamcguigan/projects/pbt-study/build.sbt[0m
+2023.12.18 20:12:12 INFO  skipping build import with status 'Dismissed'[0m
+2023.12.18 20:12:17 WARN  no build target for: /Users/monicamcguigan/projects/pbt-study/build.sbt[0m
+2023.12.18 20:12:17 INFO  skipping build import with status 'Dismissed'[0m
+2023.12.18 20:12:19 WARN  no build target for: /Users/monicamcguigan/projects/pbt-study/build.sbt[0m
+2023.12.18 20:12:19 INFO  skipping build import with status 'Dismissed'[0m
+2023.12.18 20:12:21 WARN  no build target for: /Users/monicamcguigan/projects/pbt-study/build.sbt[0m
+2023.12.18 20:12:23 INFO  skipping build import with status 'Dismissed'[0m
+2023.12.18 20:12:31 WARN  no build target for: /Users/monicamcguigan/projects/pbt-study/build.sbt[0m
+2023.12.18 20:12:31 INFO  skipping build import with status 'Dismissed'[0m
+2023.12.18 20:14:07 WARN  no build target for: /Users/monicamcguigan/projects/pbt-study/build.sbt[0m
+2023.12.18 20:14:15 INFO  running '/Users/monicamcguigan/Library/Java/JavaVirtualMachines/openjdk-16.0.2/Contents/Home/bin/java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -Dsbt.version=1.9.7 -jar /var/folders/69/rwdly64d4dd9fklv41q96vnc0000gn/T/metals10761009777588920955/sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'[0m
+2023.12.18 20:14:15 ERROR [info] [launcher] getting org.scala-sbt sbt 1.9.7  (this may take some time)...[0m
+2023.12.18 20:14:15 WARN  no build target for: /Users/monicamcguigan/projects/pbt-study/project/metals.sbt[0m
+2023.12.18 20:14:15 WARN  no build target for: /Users/monicamcguigan/projects/pbt-study/project/project/metals.sbt[0m
+2023.12.18 20:14:15 INFO  skipping build import with status 'Dismissed'[0m
+2023.12.18 20:14:21 ERROR [info] [launcher] getting Scala 2.12.18 (for sbt)...[0m
+2023.12.18 20:14:22 INFO  [info] Updated file /Users/monicamcguigan/projects/pbt-study/project/build.properties: set sbt.version to 1.9.7[0m
+2023.12.18 20:14:22 INFO  [info] welcome to sbt 1.9.7 (Oracle Corporation Java 16.0.2)[0m
+2023.12.18 20:14:22 INFO  skipping build import with status 'Dismissed'[0m
+2023.12.18 20:14:24 INFO  [info] loading settings for project pbt-study-build-build from metals.sbt ...[0m
+2023.12.18 20:14:24 INFO  [info] loading project definition from /Users/monicamcguigan/projects/pbt-study/project/project[0m
+2023.12.18 20:14:27 INFO  [info] loading settings for project pbt-study-build from metals.sbt ...[0m
+2023.12.18 20:14:27 INFO  [info] loading project definition from /Users/monicamcguigan/projects/pbt-study/project[0m
+2023.12.18 20:14:30 INFO  [success] Generated .bloop/pbt-study-build.json[0m
+2023.12.18 20:14:30 INFO  [success] Total time: 3 s, completed 18 Dec 2023, 20:14:30[0m
+2023.12.18 20:14:32 ERROR /Users/monicamcguigan/projects/pbt-study/build.sbt:10: error: value %% is not a member of sbt.librarymanagement.DependencyBuilders.OrganizationArtifactName[0m
+2023.12.18 20:14:32 INFO  [error] Type error in expression[0m
+2023.12.18 20:14:32 ERROR libraryDependencies ++= Seq("org.scalatest" %% "scalatest" %% "3.2.14")[0m
+2023.12.18 20:14:32 ERROR                                                            ^[0m
+2023.12.18 20:14:32 INFO  [warn] Project loading failed: (r)etry, (q)uit, (l)ast, or (i)gnore? (default: r)[0m
+2023.12.18 20:14:32 INFO  time: ran 'sbt bloopInstall' in 17s[0m
+2023.12.18 20:14:32 ERROR sbt command failed: /Users/monicamcguigan/Library/Java/JavaVirtualMachines/openjdk-16.0.2/Contents/Home/bin/java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -Dsbt.version=1.9.7 -jar /var/folders/69/rwdly64d4dd9fklv41q96vnc0000gn/T/metals10761009777588920955/sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall[0m
+2023.12.18 20:18:31 INFO  sbt 1.9.7 found for workspace.[0m
+2023.12.18 20:18:32 INFO  [info] welcome to sbt 1.9.7 (Oracle Corporation Java 16.0.2)[0m
+2023.12.18 20:18:32 INFO  [info] loading settings for project pbt-study-build-build from metals.sbt ...[0m
+2023.12.18 20:18:34 INFO  [info] loading project definition from /Users/monicamcguigan/projects/pbt-study/project/project[0m
+2023.12.18 20:18:34 INFO  [info] loading settings for project pbt-study-build from metals.sbt ...[0m
+2023.12.18 20:18:35 INFO  [info] loading project definition from /Users/monicamcguigan/projects/pbt-study/project[0m
+2023.12.18 20:18:37 INFO  [success] Generated .bloop/pbt-study-build.json[0m
+2023.12.18 20:18:37 INFO  [success] Total time: 2 s, completed 18 Dec 2023, 20:18:37[0m
+2023.12.18 20:18:38 ERROR /Users/monicamcguigan/projects/pbt-study/build.sbt:10: error: value %% is not a member of sbt.librarymanagement.DependencyBuilders.OrganizationArtifactName[0m
+2023.12.18 20:18:38 ERROR libraryDependencies ++= Seq("org.scalatest" %% "scalatest" %% "3.2.14")[0m
+2023.12.18 20:18:38 ERROR                                                            ^[0m
+2023.12.18 20:18:38 INFO  [error] Type error in expression[0m
+2023.12.18 20:18:38 INFO  [warn] Project loading failed: (r)etry, (q)uit, (l)ast, or (i)gnore? (default: r)[0m
+2023.12.18 20:18:38 INFO  time: ran 'sbt bspConfig' in 7.52s[0m
+2023.12.18 20:18:38 ERROR Creation of .bsp/sbt failed with exit code: 1[0m
+2023.12.18 20:19:04 WARN  no build target for: /Users/monicamcguigan/projects/pbt-study/build.sbt[0m
+2023.12.18 20:19:13 INFO  running '/Users/monicamcguigan/Library/Java/JavaVirtualMachines/openjdk-16.0.2/Contents/Home/bin/java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar /var/folders/69/rwdly64d4dd9fklv41q96vnc0000gn/T/metals12214279581560848089/sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'[0m
+2023.12.18 20:19:14 INFO  [info] welcome to sbt 1.9.7 (Oracle Corporation Java 16.0.2)[0m
+2023.12.18 20:19:14 INFO  [info] loading settings for project pbt-study-build-build from metals.sbt ...[0m
+2023.12.18 20:19:15 INFO  [info] loading project definition from /Users/monicamcguigan/projects/pbt-study/project/project[0m
+2023.12.18 20:19:15 INFO  [info] loading settings for project pbt-study-build from metals.sbt ...[0m
+2023.12.18 20:19:16 INFO  [info] loading project definition from /Users/monicamcguigan/projects/pbt-study/project[0m
+2023.12.18 20:19:18 INFO  [success] Generated .bloop/pbt-study-build.json[0m
+2023.12.18 20:19:18 INFO  [success] Total time: 2 s, completed 18 Dec 2023, 20:19:18[0m
+2023.12.18 20:19:20 INFO  [info] loading settings for project root from build.sbt ...[0m
+2023.12.18 20:19:20 INFO  [info] set current project to study-pbt (in build file:/Users/monicamcguigan/projects/pbt-study/)[0m
+2023.12.18 20:19:22 INFO  [success] Generated .bloop/root-test.json[0m
+2023.12.18 20:19:22 INFO  [success] Generated .bloop/root.json[0m
+2023.12.18 20:19:22 INFO  [success] Total time: 3 s, completed 18 Dec 2023, 20:19:22[0m
+2023.12.18 20:19:23 INFO  time: ran 'sbt bloopInstall' in 9.97s[0m
+2023.12.18 20:19:23 INFO  Attempting to connect to the build server...[0m
+2023.12.18 20:19:23 INFO  Setting up current java home /Users/monicamcguigan/Library/Java/JavaVirtualMachines/openjdk-16.0.2/Contents/Home in /Users/monicamcguigan/.bloop/bloop.json[0m
+2023.12.18 20:19:28 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/monicamcguigan/projects/pbt-study/.metals/bsp.trace.json or /Users/monicamcguigan/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+2023.12.18 20:19:31 INFO  Attempting to connect to the build server...[0m
+2023.12.18 20:19:31 INFO  Bloop uses /Users/monicamcguigan/Library/Java/JavaVirtualMachines/openjdk-16.0.2/Contents/Home defined at /Users/monicamcguigan/.bloop/bloop.json[0m
+2023.12.18 20:19:31 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/monicamcguigan/projects/pbt-study/project/.metals/bsp.trace.json or /Users/monicamcguigan/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+2023.12.18 20:19:31 INFO  time: Connected to build server in 8.26s[0m
+2023.12.18 20:19:31 INFO  Connected to Build server: Bloop v1.5.13[0m
+2023.12.18 20:19:31 INFO  time: Imported build in 0.1s[0m
+2023.12.18 20:19:38 INFO  time: indexed workspace in 7.21s[0m
+2023.12.18 20:19:42 INFO  time: code lens generation in 3.63s[0m
+Dec 18, 2023 8:23:54 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Dec 18, 2023 8:23:54 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/monicamcguigan/projects/pbt-study/.metals/.reports/metals-full/2023-12-18/r_compiler-error_(root)_20-23-54-498.md
+2023.12.18 20:23:54 INFO  compiling root (1 scala source)[0m
+Dec 18, 2023 8:24:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 673
+2023.12.18 20:24:04 INFO  time: compiled root in 9.76s[0m
+2023.12.18 20:24:04 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:24:04 INFO  time: compiled root in 0.36s[0m
+2023.12.18 20:24:32 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:24:32 INFO  time: compiled root in 0.74s[0m
+2023.12.18 20:24:39 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:24:39 INFO  time: compiled root in 0.19s[0m
+2023.12.18 20:24:40 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:24:40 INFO  time: compiled root in 0.6s[0m
+2023.12.18 20:24:43 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:24:43 INFO  time: compiled root in 0.16s[0m
+2023.12.18 20:24:44 WARN  Could not load snapshot text for /Users/monicamcguigan/projects/pbt-study/src/main/scala/Gen.scala[0m
+2023.12.18 20:24:44 WARN  Could not load snapshot text for /Users/monicamcguigan/projects/pbt-study/src/main/scala/Gen.scala[0m
+2023.12.18 20:24:44 WARN  Could not load snapshot text for /Users/monicamcguigan/projects/pbt-study/src/main/scala/Gen.scala[0m
+2023.12.18 20:24:46 WARN  Could not load snapshot text for /Users/monicamcguigan/projects/pbt-study/src/main/scala/Gen.scala[0m
+2023.12.18 20:24:46 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:24:46 INFO  time: compiled root in 0.23s[0m
+2023.12.18 20:24:47 WARN  Could not load snapshot text for /Users/monicamcguigan/projects/pbt-study/src/main/scala/Gen.scala[0m
+2023.12.18 20:24:48 WARN  Could not load snapshot text for /Users/monicamcguigan/projects/pbt-study/src/main/scala/Gen.scala[0m
+2023.12.18 20:24:48 WARN  Could not load snapshot text for /Users/monicamcguigan/projects/pbt-study/src/main/scala/Gen.scala[0m
+2023.12.18 20:24:49 WARN  Could not load snapshot text for /Users/monicamcguigan/projects/pbt-study/src/main/scala/Gen.scala[0m
+2023.12.18 20:24:49 WARN  Could not load snapshot text for /Users/monicamcguigan/projects/pbt-study/src/main/scala/Gen.scala[0m
+2023.12.18 20:24:52 WARN  Could not load snapshot text for /Users/monicamcguigan/projects/pbt-study/src/main/scala/Gen.scala[0m
+2023.12.18 20:24:53 WARN  Could not load snapshot text for /Users/monicamcguigan/projects/pbt-study/src/main/scala/Gen.scala[0m
+2023.12.18 20:24:54 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:24:54 INFO  time: compiled root in 73ms[0m
+2023.12.18 20:24:54 WARN  Could not load snapshot text for /Users/monicamcguigan/projects/pbt-study/src/main/scala/Gen.scala[0m
+2023.12.18 20:24:55 WARN  Could not load snapshot text for /Users/monicamcguigan/projects/pbt-study/src/main/scala/Gen.scala[0m
+2023.12.18 20:24:56 WARN  Could not load snapshot text for /Users/monicamcguigan/projects/pbt-study/src/main/scala/Gen.scala[0m
+2023.12.18 20:24:57 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:24:57 INFO  time: compiled root in 67ms[0m
+2023.12.18 20:24:57 WARN  Could not load snapshot text for /Users/monicamcguigan/projects/pbt-study/src/main/scala/Gen.scala[0m
+2023.12.18 20:24:57 WARN  Could not load snapshot text for /Users/monicamcguigan/projects/pbt-study/src/main/scala/Gen.scala[0m
+2023.12.18 20:24:59 WARN  Could not load snapshot text for /Users/monicamcguigan/projects/pbt-study/src/main/scala/Gen.scala[0m
+2023.12.18 20:25:00 WARN  Could not load snapshot text for /Users/monicamcguigan/projects/pbt-study/src/main/scala/Gen.scala[0m
+Dec 18, 2023 8:25:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 974
+2023.12.18 20:25:01 WARN  Could not load snapshot text for /Users/monicamcguigan/projects/pbt-study/src/main/scala/Gen.scala[0m
+something's wrong: no file:///Users/monicamcguigan/projects/pbt-study/src/main/scala/Gen.scala in Gen[<error>]RangePosition(file:///Users/monicamcguigan/projects/pbt-study/src/main/scala/Gen.scala, 125, 125, 138)
+2023.12.18 20:25:02 WARN  Could not load snapshot text for /Users/monicamcguigan/projects/pbt-study/src/main/scala/Gen.scala[0m
+2023.12.18 20:25:03 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:25:03 INFO  time: compiled root in 71ms[0m
+2023.12.18 20:25:03 WARN  Could not load snapshot text for /Users/monicamcguigan/projects/pbt-study/src/main/scala/Gen.scala[0m
+2023.12.18 20:25:05 WARN  Could not load snapshot text for /Users/monicamcguigan/projects/pbt-study/src/main/scala/Gen.scala[0m
+2023.12.18 20:25:06 WARN  Could not load snapshot text for /Users/monicamcguigan/projects/pbt-study/src/main/scala/Gen.scala[0m
+2023.12.18 20:25:07 WARN  Could not load snapshot text for /Users/monicamcguigan/projects/pbt-study/src/main/scala/Gen.scala[0m
+2023.12.18 20:25:08 WARN  Could not load snapshot text for /Users/monicamcguigan/projects/pbt-study/src/main/scala/Gen.scala[0m
+2023.12.18 20:25:08 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:25:08 INFO  time: compiled root in 96ms[0m
+2023.12.18 20:25:09 WARN  Could not load snapshot text for /Users/monicamcguigan/projects/pbt-study/src/main/scala/Gen.scala[0m
+2023.12.18 20:25:09 WARN  Could not load snapshot text for /Users/monicamcguigan/projects/pbt-study/src/main/scala/Gen.scala[0m
+2023.12.18 20:25:10 WARN  Could not load snapshot text for /Users/monicamcguigan/projects/pbt-study/src/main/scala/Gen.scala[0m
+2023.12.18 20:25:11 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:25:11 INFO  time: compiled root in 96ms[0m
+2023.12.18 20:25:12 WARN  Could not load snapshot text for /Users/monicamcguigan/projects/pbt-study/src/main/scala/Gen.scala[0m
+2023.12.18 20:25:22 WARN  Could not load snapshot text for /Users/monicamcguigan/projects/pbt-study/src/main/scala/Gen.scala[0m
+2023.12.18 20:25:24 WARN  Could not load snapshot text for /Users/monicamcguigan/projects/pbt-study/src/main/scala/Gen.scala[0m
+2023.12.18 20:25:25 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:25:25 INFO  time: compiled root in 65ms[0m
+2023.12.18 20:25:26 WARN  Could not load snapshot text for /Users/monicamcguigan/projects/pbt-study/src/main/scala/Gen.scala[0m
+2023.12.18 20:25:26 WARN  Could not load snapshot text for /Users/monicamcguigan/projects/pbt-study/src/main/scala/Gen.scala[0m
+2023.12.18 20:25:28 WARN  Could not load snapshot text for /Users/monicamcguigan/projects/pbt-study/src/main/scala/Gen.scala[0m
+2023.12.18 20:25:29 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:25:29 INFO  time: compiled root in 91ms[0m
+2023.12.18 20:25:29 WARN  Could not load snapshot text for /Users/monicamcguigan/projects/pbt-study/src/main/scala/Gen.scala[0m
+2023.12.18 20:25:31 WARN  Could not load snapshot text for /Users/monicamcguigan/projects/pbt-study/src/main/scala/Gen.scala[0m
+2023.12.18 20:25:32 WARN  Could not load snapshot text for /Users/monicamcguigan/projects/pbt-study/src/main/scala/Gen.scala[0m
+2023.12.18 20:25:34 WARN  Could not load snapshot text for /Users/monicamcguigan/projects/pbt-study/src/main/scala/Gen.scala[0m
+2023.12.18 20:25:34 WARN  Could not load snapshot text for /Users/monicamcguigan/projects/pbt-study/src/main/scala/Gen.scala[0m
+2023.12.18 20:25:35 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:25:35 INFO  time: compiled root in 80ms[0m
+2023.12.18 20:25:35 WARN  Could not load snapshot text for /Users/monicamcguigan/projects/pbt-study/src/main/scala/Gen.scala[0m
+2023.12.18 20:25:37 WARN  Could not load snapshot text for /Users/monicamcguigan/projects/pbt-study/src/main/scala/Gen.scala[0m
+2023.12.18 20:25:38 WARN  Could not load snapshot text for /Users/monicamcguigan/projects/pbt-study/src/main/scala/Gen.scala[0m
+2023.12.18 20:25:39 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:25:39 INFO  time: compiled root in 71ms[0m
+2023.12.18 20:25:39 WARN  Could not load snapshot text for /Users/monicamcguigan/projects/pbt-study/src/main/scala/Gen.scala[0m
+2023.12.18 20:25:43 WARN  Could not load snapshot text for /Users/monicamcguigan/projects/pbt-study/src/main/scala/Gen.scala[0m
+2023.12.18 20:25:44 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:25:44 INFO  time: compiled root in 54ms[0m
+2023.12.18 20:25:46 WARN  Could not load snapshot text for /Users/monicamcguigan/projects/pbt-study/src/main/scala/Gen.scala[0m
+2023.12.18 20:25:46 WARN  Could not load snapshot text for /Users/monicamcguigan/projects/pbt-study/src/main/scala/Gen.scala[0m
+2023.12.18 20:25:48 WARN  Could not load snapshot text for /Users/monicamcguigan/projects/pbt-study/src/main/scala/Gen.scala[0m
+2023.12.18 20:25:49 WARN  Could not load snapshot text for /Users/monicamcguigan/projects/pbt-study/src/main/scala/Gen.scala[0m
+2023.12.18 20:25:49 WARN  Could not load snapshot text for /Users/monicamcguigan/projects/pbt-study/src/main/scala/Gen.scala[0m
+2023.12.18 20:25:50 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:25:50 INFO  time: compiled root in 78ms[0m
+2023.12.18 20:25:50 WARN  Could not load snapshot text for /Users/monicamcguigan/projects/pbt-study/src/main/scala/Gen.scala[0m
+2023.12.18 20:25:52 WARN  Could not load snapshot text for /Users/monicamcguigan/projects/pbt-study/src/main/scala/Gen.scala[0m
+2023.12.18 20:25:52 WARN  Could not load snapshot text for /Users/monicamcguigan/projects/pbt-study/src/main/scala/Gen.scala[0m
+2023.12.18 20:25:54 WARN  Could not load snapshot text for /Users/monicamcguigan/projects/pbt-study/src/main/scala/Gen.scala[0m
+2023.12.18 20:25:55 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:25:55 INFO  time: compiled root in 88ms[0m
+2023.12.18 20:25:55 WARN  Could not load snapshot text for /Users/monicamcguigan/projects/pbt-study/src/main/scala/Gen.scala[0m
+2023.12.18 20:25:56 WARN  Could not load snapshot text for /Users/monicamcguigan/projects/pbt-study/src/main/scala/Gen.scala[0m
+2023.12.18 20:25:57 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:25:57 INFO  time: compiled root in 69ms[0m
+2023.12.18 20:25:57 WARN  Could not load snapshot text for /Users/monicamcguigan/projects/pbt-study/src/main/scala/Gen.scala[0m
+2023.12.18 20:25:58 WARN  Could not load snapshot text for /Users/monicamcguigan/projects/pbt-study/src/main/scala/Gen.scala[0m
+2023.12.18 20:25:59 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:25:59 INFO  time: compiled root in 88ms[0m
+2023.12.18 20:26:00 WARN  Could not load snapshot text for /Users/monicamcguigan/projects/pbt-study/src/main/scala/Gen.scala[0m
+2023.12.18 20:26:01 WARN  Could not load snapshot text for /Users/monicamcguigan/projects/pbt-study/src/main/scala/Gen.scala[0m
+2023.12.18 20:26:02 WARN  Could not load snapshot text for /Users/monicamcguigan/projects/pbt-study/src/main/scala/Gen.scala[0m
+2023.12.18 20:26:03 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:26:03 INFO  time: compiled root in 0.13s[0m
+2023.12.18 20:26:04 WARN  Could not load snapshot text for /Users/monicamcguigan/projects/pbt-study/src/main/scala/Gen.scala[0m
+2023.12.18 20:26:04 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:26:04 INFO  time: compiled root in 73ms[0m
+2023.12.18 20:26:05 WARN  Could not load snapshot text for /Users/monicamcguigan/projects/pbt-study/src/main/scala/Gen.scala[0m
+2023.12.18 20:26:07 WARN  Could not load snapshot text for /Users/monicamcguigan/projects/pbt-study/src/main/scala/Gen.scala[0m
+2023.12.18 20:26:07 WARN  Could not load snapshot text for /Users/monicamcguigan/projects/pbt-study/src/main/scala/Gen.scala[0m
+2023.12.18 20:26:11 WARN  Could not load snapshot text for /Users/monicamcguigan/projects/pbt-study/src/main/scala/Gen.scala[0m
+Dec 18, 2023 8:26:12 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1355
+2023.12.18 20:26:12 WARN  Could not load snapshot text for /Users/monicamcguigan/projects/pbt-study/src/main/scala/Gen.scala[0m
+2023.12.18 20:26:13 WARN  Could not load snapshot text for /Users/monicamcguigan/projects/pbt-study/src/main/scala/Gen.scala[0m
+2023.12.18 20:26:13 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:26:13 INFO  time: compiled root in 66ms[0m
+2023.12.18 20:26:14 WARN  Could not load snapshot text for /Users/monicamcguigan/projects/pbt-study/src/main/scala/Gen.scala[0m
+2023.12.18 20:26:17 WARN  Could not load snapshot text for /Users/monicamcguigan/projects/pbt-study/src/main/scala/Gen.scala[0m
+2023.12.18 20:26:18 WARN  Could not load snapshot text for /Users/monicamcguigan/projects/pbt-study/src/main/scala/Gen.scala[0m
+2023.12.18 20:26:19 WARN  Could not load snapshot text for /Users/monicamcguigan/projects/pbt-study/src/main/scala/Gen.scala[0m
+something's wrong: no file:///Users/monicamcguigan/projects/pbt-study/src/main/scala/Gen.scala in Gen[<error>]RangePosition(file:///Users/monicamcguigan/projects/pbt-study/src/main/scala/Gen.scala, 223, 223, 236)
+2023.12.18 20:26:20 WARN  Could not load snapshot text for /Users/monicamcguigan/projects/pbt-study/src/main/scala/Gen.scala[0m
+2023.12.18 20:26:21 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:26:21 INFO  time: compiled root in 62ms[0m
+2023.12.18 20:26:21 WARN  Could not load snapshot text for /Users/monicamcguigan/projects/pbt-study/src/main/scala/Gen.scala[0m
+2023.12.18 20:26:22 WARN  Could not load snapshot text for /Users/monicamcguigan/projects/pbt-study/src/main/scala/Gen.scala[0m
+2023.12.18 20:26:23 WARN  Could not load snapshot text for /Users/monicamcguigan/projects/pbt-study/src/main/scala/Gen.scala[0m
+2023.12.18 20:26:24 WARN  Could not load snapshot text for /Users/monicamcguigan/projects/pbt-study/src/main/scala/Gen.scala[0m
+2023.12.18 20:26:25 WARN  Could not load snapshot text for /Users/monicamcguigan/projects/pbt-study/src/main/scala/Gen.scala[0m
+2023.12.18 20:26:25 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:26:25 INFO  time: compiled root in 66ms[0m
+2023.12.18 20:26:27 WARN  Could not load snapshot text for /Users/monicamcguigan/projects/pbt-study/src/main/scala/Gen.scala[0m
+2023.12.18 20:26:28 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:26:28 INFO  time: compiled root in 89ms[0m
+2023.12.18 20:26:28 WARN  Could not load snapshot text for /Users/monicamcguigan/projects/pbt-study/src/main/scala/Gen.scala[0m
+2023.12.18 20:26:30 WARN  Could not load snapshot text for /Users/monicamcguigan/projects/pbt-study/src/main/scala/Gen.scala[0m
+2023.12.18 20:26:30 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:26:30 INFO  time: compiled root in 0.11s[0m
+2023.12.18 20:26:31 WARN  Could not load snapshot text for /Users/monicamcguigan/projects/pbt-study/src/main/scala/Gen.scala[0m
+2023.12.18 20:26:40 WARN  Could not load snapshot text for /Users/monicamcguigan/projects/pbt-study/src/main/scala/Gen.scala[0m
+2023.12.18 20:26:41 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:26:41 INFO  time: compiled root in 0.1s[0m
+2023.12.18 20:26:41 WARN  Could not load snapshot text for /Users/monicamcguigan/projects/pbt-study/src/main/scala/Gen.scala[0m
+2023.12.18 20:27:02 WARN  Could not load snapshot text for /Users/monicamcguigan/projects/pbt-study/src/main/scala/Gen.scala[0m
+2023.12.18 20:27:08 WARN  Could not load snapshot text for /Users/monicamcguigan/projects/pbt-study/src/main/scala/Gen.scala[0m
+2023.12.18 20:27:09 WARN  Could not load snapshot text for /Users/monicamcguigan/projects/pbt-study/src/main/scala/Gen.scala[0m
+2023.12.18 20:27:11 WARN  Could not load snapshot text for /Users/monicamcguigan/projects/pbt-study/src/main/scala/Gen.scala[0m
+2023.12.18 20:27:12 WARN  Could not load snapshot text for /Users/monicamcguigan/projects/pbt-study/src/main/scala/Gen.scala[0m
+2023.12.18 20:27:13 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:27:14 INFO  time: compiled root in 1.09s[0m
+2023.12.18 20:27:16 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:27:16 INFO  time: compiled root in 0.55s[0m
+2023.12.18 20:27:28 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:27:28 INFO  time: compiled root in 60ms[0m
+2023.12.18 20:27:35 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:27:35 INFO  time: compiled root in 61ms[0m
+2023.12.18 20:27:38 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:27:38 INFO  time: compiled root in 75ms[0m
+2023.12.18 20:27:45 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:27:45 INFO  time: compiled root in 88ms[0m
+2023.12.18 20:27:49 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:27:49 INFO  time: compiled root in 92ms[0m
+2023.12.18 20:27:54 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:27:54 INFO  time: compiled root in 81ms[0m
+2023.12.18 20:27:57 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:27:57 INFO  time: compiled root in 0.65s[0m
+2023.12.18 20:28:01 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:28:01 INFO  time: compiled root in 82ms[0m
+2023.12.18 20:28:05 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:28:05 INFO  time: compiled root in 73ms[0m
+2023.12.18 20:28:11 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:28:11 INFO  time: compiled root in 0.72s[0m
+2023.12.18 20:28:12 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:28:12 INFO  time: compiled root in 0.27s[0m
+2023.12.18 20:28:19 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:28:19 INFO  time: compiled root in 91ms[0m
+2023.12.18 20:28:24 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:28:24 INFO  time: compiled root in 47ms[0m
+2023.12.18 20:28:27 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:28:27 INFO  time: compiled root in 0.1s[0m
+2023.12.18 20:28:31 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:28:31 INFO  time: compiled root in 88ms[0m
+2023.12.18 20:28:36 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:28:36 INFO  time: compiled root in 0.67s[0m
+2023.12.18 20:28:56 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:28:56 INFO  time: compiled root in 0.1s[0m
+2023.12.18 20:28:59 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:28:59 INFO  time: compiled root in 92ms[0m
+2023.12.18 20:29:07 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:29:07 INFO  time: compiled root in 0.81s[0m
+Downloading https://repo1.maven.org/maven2/org/scalameta/scalafmt-core_2.13/3.7.15/scalafmt-core_2.13-3.7.15.pom
+Downloaded https://repo1.maven.org/maven2/org/scalameta/scalafmt-core_2.13/3.7.15/scalafmt-core_2.13-3.7.15.pom
+Downloading https://repo1.maven.org/maven2/org/scalameta/scalafmt-sysops_2.13/3.7.15/scalafmt-sysops_2.13-3.7.15.pom
+Downloading https://repo1.maven.org/maven2/org/scalameta/scalafmt-config_2.13/3.7.15/scalafmt-config_2.13-3.7.15.pom
+Downloading https://repo1.maven.org/maven2/org/scalameta/scalameta_2.13/4.8.12/scalameta_2.13-4.8.12.pom
+Downloaded https://repo1.maven.org/maven2/org/scalameta/scalafmt-sysops_2.13/3.7.15/scalafmt-sysops_2.13-3.7.15.pom
+Downloaded https://repo1.maven.org/maven2/org/scalameta/scalameta_2.13/4.8.12/scalameta_2.13-4.8.12.pom
+Downloaded https://repo1.maven.org/maven2/org/scalameta/scalafmt-config_2.13/3.7.15/scalafmt-config_2.13-3.7.15.pom
+Downloading https://repo1.maven.org/maven2/org/scalameta/parsers_2.13/4.8.12/parsers_2.13-4.8.12.pom
+Downloaded https://repo1.maven.org/maven2/org/scalameta/parsers_2.13/4.8.12/parsers_2.13-4.8.12.pom
+Downloading https://repo1.maven.org/maven2/org/scalameta/trees_2.13/4.8.12/trees_2.13-4.8.12.pom
+Downloaded https://repo1.maven.org/maven2/org/scalameta/trees_2.13/4.8.12/trees_2.13-4.8.12.pom
+Downloading https://repo1.maven.org/maven2/org/scalameta/common_2.13/4.8.12/common_2.13-4.8.12.pom
+Downloaded https://repo1.maven.org/maven2/org/scalameta/common_2.13/4.8.12/common_2.13-4.8.12.pom
+Downloading https://repo1.maven.org/maven2/org/scalameta/scalafmt-core_2.13/3.7.15/scalafmt-core_2.13-3.7.15.jar
+Downloading https://repo1.maven.org/maven2/org/scalameta/scalafmt-sysops_2.13/3.7.15/scalafmt-sysops_2.13-3.7.15.jar
+Downloading https://repo1.maven.org/maven2/org/scalameta/scalameta_2.13/4.8.12/scalameta_2.13-4.8.12.jar
+Downloading https://repo1.maven.org/maven2/org/scalameta/scalafmt-config_2.13/3.7.15/scalafmt-config_2.13-3.7.15.jar
+Downloading https://repo1.maven.org/maven2/org/scalameta/trees_2.13/4.8.12/trees_2.13-4.8.12.jar
+Downloading https://repo1.maven.org/maven2/org/scalameta/parsers_2.13/4.8.12/parsers_2.13-4.8.12.jar
+Downloaded https://repo1.maven.org/maven2/org/scalameta/scalafmt-sysops_2.13/3.7.15/scalafmt-sysops_2.13-3.7.15.jar
+Downloading https://repo1.maven.org/maven2/org/scalameta/common_2.13/4.8.12/common_2.13-4.8.12.jar
+Downloaded https://repo1.maven.org/maven2/org/scalameta/scalafmt-config_2.13/3.7.15/scalafmt-config_2.13-3.7.15.jar
+Downloaded https://repo1.maven.org/maven2/org/scalameta/parsers_2.13/4.8.12/parsers_2.13-4.8.12.jar
+Downloaded https://repo1.maven.org/maven2/org/scalameta/scalafmt-core_2.13/3.7.15/scalafmt-core_2.13-3.7.15.jar
+Downloaded https://repo1.maven.org/maven2/org/scalameta/scalameta_2.13/4.8.12/scalameta_2.13-4.8.12.jar
+Downloaded https://repo1.maven.org/maven2/org/scalameta/common_2.13/4.8.12/common_2.13-4.8.12.jar
+Downloaded https://repo1.maven.org/maven2/org/scalameta/trees_2.13/4.8.12/trees_2.13-4.8.12.jar
+2023.12.18 20:29:41 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:29:41 INFO  time: compiled root in 0.86s[0m
+2023.12.18 20:29:46 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:29:47 INFO  time: compiled root in 1.04s[0m
+2023.12.18 20:29:47 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:29:47 INFO  time: compiled root in 24ms[0m
+2023.12.18 20:29:49 WARN  Could not load snapshot text for /Users/monicamcguigan/projects/pbt-study/src/main/scala/Gen.scala[0m
+2023.12.18 20:29:49 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:29:49 INFO  time: compiled root in 0.57s[0m
+2023.12.18 20:29:51 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:29:51 INFO  time: compiled root in 0.56s[0m
+2023.12.18 20:29:54 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:29:54 INFO  time: compiled root in 39ms[0m
+2023.12.18 20:29:57 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:29:57 INFO  time: compiled root in 99ms[0m
+2023.12.18 20:30:03 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:30:03 INFO  time: compiled root in 71ms[0m
+2023.12.18 20:30:14 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:30:14 INFO  time: compiled root in 0.11s[0m
+2023.12.18 20:30:17 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:30:17 INFO  time: compiled root in 0.11s[0m
+2023.12.18 20:30:19 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:30:19 INFO  time: compiled root in 97ms[0m
+2023.12.18 20:30:23 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:30:23 INFO  time: compiled root in 90ms[0m
+2023.12.18 20:30:24 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:30:24 INFO  time: compiled root in 77ms[0m
+2023.12.18 20:30:26 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:30:26 INFO  time: compiled root in 98ms[0m
+2023.12.18 20:30:31 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:30:31 INFO  time: compiled root in 86ms[0m
+2023.12.18 20:30:35 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:30:35 INFO  time: compiled root in 70ms[0m
+2023.12.18 20:30:37 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:30:37 INFO  time: compiled root in 77ms[0m
+Dec 18, 2023 8:30:46 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Dec 18, 2023 8:30:46 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/monicamcguigan/projects/pbt-study/.metals/.reports/metals-full/2023-12-18/r_compiler-error_(root)_20-30-46-092.md
+2023.12.18 20:30:46 WARN  Could not find semantic tokens for: file:///Users/monicamcguigan/projects/pbt-study/src/main/scala/Gen.scala[0m
+Dec 18, 2023 8:30:46 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Dec 18, 2023 8:30:46 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/monicamcguigan/projects/pbt-study/.metals/.reports/metals-full/2023-12-18/r_compiler-error_(root)_20-30-46-610.md
+Dec 18, 2023 8:30:46 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Dec 18, 2023 8:30:46 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/monicamcguigan/projects/pbt-study/.metals/.reports/metals-full/2023-12-18/r_compiler-error_(root)_20-30-46-659.md
+2023.12.18 20:30:46 WARN  Could not find semantic tokens for: file:///Users/monicamcguigan/projects/pbt-study/src/main/scala/Gen.scala[0m
+Dec 18, 2023 8:30:47 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Dec 18, 2023 8:30:47 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/monicamcguigan/projects/pbt-study/.metals/.reports/metals-full/2023-12-18/r_compiler-error_(root)_20-30-47-162.md
+Dec 18, 2023 8:30:47 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Dec 18, 2023 8:30:47 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/monicamcguigan/projects/pbt-study/.metals/.reports/metals-full/2023-12-18/r_compiler-error_(root)_20-30-47-205.md
+2023.12.18 20:30:47 WARN  Could not find semantic tokens for: file:///Users/monicamcguigan/projects/pbt-study/src/main/scala/Gen.scala[0m
+Dec 18, 2023 8:30:47 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Dec 18, 2023 8:30:47 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/monicamcguigan/projects/pbt-study/.metals/.reports/metals-full/2023-12-18/r_compiler-error_(root)_20-30-47-756.md
+2023.12.18 20:30:47 WARN  Could not find semantic tokens for: file:///Users/monicamcguigan/projects/pbt-study/src/main/scala/Gen.scala[0m
+something's wrong: no file:///Users/monicamcguigan/projects/pbt-study/src/main/scala/Gen.scala in Gen[<error>]RangePosition(file:///Users/monicamcguigan/projects/pbt-study/src/main/scala/Gen.scala, 725, 725, 738)
+2023.12.18 20:30:54 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:30:54 INFO  time: compiled root in 0.13s[0m
+2023.12.18 20:30:57 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:30:57 INFO  time: compiled root in 86ms[0m
+2023.12.18 20:30:59 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:30:59 INFO  time: compiled root in 78ms[0m
+2023.12.18 20:31:08 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:31:08 INFO  time: compiled root in 41ms[0m
+2023.12.18 20:31:09 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:31:09 INFO  time: compiled root in 41ms[0m
+2023.12.18 20:31:13 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:31:13 INFO  time: compiled root in 0.91s[0m
+2023.12.18 20:31:14 WARN  Could not load snapshot text for /Users/monicamcguigan/projects/pbt-study/src/main/scala/Gen.scala[0m
+2023.12.18 20:31:14 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:31:14 INFO  time: compiled root in 0.38s[0m
+2023.12.18 20:31:17 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:31:18 INFO  time: compiled root in 1.02s[0m
+2023.12.18 20:31:19 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:31:19 INFO  time: compiled root in 84ms[0m
+2023.12.18 20:31:22 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:31:22 INFO  time: compiled root in 0.57s[0m
+2023.12.18 20:31:24 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:31:24 INFO  time: compiled root in 0.76s[0m
+Dec 18, 2023 8:31:41 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Dec 18, 2023 8:31:41 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/monicamcguigan/projects/pbt-study/.metals/.reports/metals-full/2023-12-18/r_compiler-error_(root)_20-31-41-776.md
+2023.12.18 20:31:41 WARN  Could not find semantic tokens for: file:///Users/monicamcguigan/projects/pbt-study/src/main/scala/Gen.scala[0m
+Dec 18, 2023 8:31:41 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Dec 18, 2023 8:31:41 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/monicamcguigan/projects/pbt-study/.metals/.reports/metals-full/2023-12-18/r_compiler-error_(root)_20-31-41-844.md
+2023.12.18 20:31:47 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:31:47 INFO  time: compiled root in 43ms[0m
+2023.12.18 20:32:00 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:32:00 INFO  time: compiled root in 40ms[0m
+2023.12.18 20:32:02 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:32:02 INFO  time: compiled root in 49ms[0m
+something's wrong: no file:///Users/monicamcguigan/projects/pbt-study/src/main/scala/Gen.scala in Gen[<error>]RangePosition(file:///Users/monicamcguigan/projects/pbt-study/src/main/scala/Gen.scala, 866, 866, 879)
+2023.12.18 20:32:09 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:32:09 INFO  time: compiled root in 0.73s[0m
+2023.12.18 20:33:21 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:33:21 INFO  time: compiled root in 0.44s[0m
+2023.12.18 20:33:27 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:33:27 INFO  time: compiled root in 95ms[0m
+2023.12.18 20:33:29 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:33:29 INFO  time: compiled root in 75ms[0m
+2023.12.18 20:33:35 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:33:35 INFO  time: compiled root in 0.65s[0m
+2023.12.18 20:33:53 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:33:53 INFO  time: compiled root in 0.67s[0m
+2023.12.18 20:33:54 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:33:54 INFO  time: compiled root in 0.22s[0m
+2023.12.18 20:33:56 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:33:56 INFO  time: compiled root in 0.61s[0m
+2023.12.18 20:34:00 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:34:00 INFO  time: compiled root in 93ms[0m
+Dec 18, 2023 8:34:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: scala.reflect.internal.Symbols$CyclicReference: illegal cyclic reference involving value <import>
+java.util.concurrent.CompletionException: scala.reflect.internal.Symbols$CyclicReference: illegal cyclic reference involving value <import>
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:314)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:319)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506)
+	at java.base/java.util.concurrent.CompletableFuture.complete(CompletableFuture.java:2143)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:42)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:484)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	at java.base/java.lang.Thread.run(Thread.java:831)
+Caused by: scala.reflect.internal.Symbols$CyclicReference: illegal cyclic reference involving value <import>
+
+2023.12.18 20:34:04 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:34:04 INFO  time: compiled root in 72ms[0m
+2023.12.18 20:34:10 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:34:10 INFO  time: compiled root in 94ms[0m
+2023.12.18 20:34:18 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:34:18 INFO  time: compiled root in 76ms[0m
+2023.12.18 20:34:22 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:34:22 INFO  time: compiled root in 75ms[0m
+2023.12.18 20:34:25 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:34:25 INFO  time: compiled root in 97ms[0m
+2023.12.18 20:34:30 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:34:30 INFO  time: compiled root in 71ms[0m
+2023.12.18 20:34:32 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:34:32 INFO  time: compiled root in 0.12s[0m
+2023.12.18 20:34:36 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:34:36 INFO  time: compiled root in 0.14s[0m
+2023.12.18 20:34:39 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:34:39 INFO  time: compiled root in 39ms[0m
+2023.12.18 20:34:41 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:34:41 INFO  time: compiled root in 0.11s[0m
+2023.12.18 20:34:50 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:34:50 INFO  time: compiled root in 0.12s[0m
+2023.12.18 20:34:57 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:34:57 INFO  time: compiled root in 0.11s[0m
+Dec 18, 2023 8:34:59 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+2023.12.18 20:35:00 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:35:00 INFO  time: compiled root in 88ms[0m
+2023.12.18 20:35:02 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:35:02 INFO  time: compiled root in 92ms[0m
+2023.12.18 20:35:05 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:35:05 INFO  time: compiled root in 89ms[0m
+2023.12.18 20:35:07 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:35:07 INFO  time: compiled root in 85ms[0m
+2023.12.18 20:35:12 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:35:12 INFO  time: compiled root in 0.75s[0m
+2023.12.18 20:35:22 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:35:22 INFO  time: compiled root in 0.61s[0m
+2023.12.18 20:35:28 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:35:28 INFO  time: compiled root in 74ms[0m
+2023.12.18 20:35:29 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:35:29 INFO  time: compiled root in 82ms[0m
+Dec 18, 2023 8:35:30 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.AssertionError: AssertionError (GSON 2.10.1): AssertionError (GSON 2.10.1): assertion failed: 
+  Gen
+     while compiling: file:///Users/monicamcguigan/projects/pbt-study/src/main/scala/Gen.scala
+        during phase: globalPhase=<no phase>, enteringPhase=typer
+     library version: version 2.12.18
+    compiler version: version 2.12.18
+  reconstructed args: -classpath /Users/monicamcguigan/projects/pbt-study/.bloop/root/bloop-bsp-clients-classes/classes-Metals-Ou50fH2hR4S-RdQ0H3RNTQ==:/Users/monicamcguigan/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/sourcegraph/semanticdb-javac/0.9.8/semanticdb-javac-0.9.8.jar:/Users/monicamcguigan/.sbt/boot/scala-2.12.18/lib/scala-library.jar:/Users/monicamcguigan/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest_2.12/3.2.14/scalatest_2.12-3.2.14.jar:/Users/monicamcguigan/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest-core_2.12/3.2.14/scalatest-core_2.12-3.2.14.jar:/Users/monicamcguigan/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest-featurespec_2.12/3.2.14/scalatest-featurespec_2.12-3.2.14.jar:/Users/monicamcguigan/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest-flatspec_2.12/3.2.14/scalatest-flatspec_2.12-3.2.14.jar:/Users/monicamcguigan/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest-freespec_2.12/3.2.14/scalatest-freespec_2.12-3.2.14.jar:/Users/monicamcguigan/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest-funsuite_2.12/3.2.14/scalatest-funsuite_2.12-3.2.14.jar:/Users/monicamcguigan/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest-funspec_2.12/3.2.14/scalatest-funspec_2.12-3.2.14.jar:/Users/monicamcguigan/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest-propspec_2.12/3.2.14/scalatest-propspec_2.12-3.2.14.jar:/Users/monicamcguigan/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest-refspec_2.12/3.2.14/scalatest-refspec_2.12-3.2.14.jar:/Users/monicamcguigan/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest-wordspec_2.12/3.2.14/scalatest-wordspec_2.12-3.2.14.jar:/Users/monicamcguigan/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest-diagrams_2.12/3.2.14/scalatest-diagrams_2.12-3.2.14.jar:/Users/monicamcguigan/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest-matchers-core_2.12/3.2.14/scalatest-matchers-core_2.12-3.2.14.jar:/Users/monicamcguigan/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest-shouldmatchers_2.12/3.2.14/scalatest-shouldmatchers_2.12-3.2.14.jar:/Users/monicamcguigan/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest-mustmatchers_2.12/3.2.14/scalatest-mustmatchers_2.12-3.2.14.jar:/Users/monicamcguigan/.sbt/boot/scala-2.12.18/lib/scala-reflect.jar:/Users/monicamcguigan/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest-compatible/3.2.14/scalatest-compatible-3.2.14.jar:/Users/monicamcguigan/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalactic/scalactic_2.12/3.2.14/scalactic_2.12-3.2.14.jar:/Users/monicamcguigan/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/2.1.0/scala-xml_2.12-2.1.0.jar -Xplugin-require:semanticdb -Yrangepos -Ymacro-expand:discard -Ycache-plugin-class-loader:last-modified -Ypresentation-any-thread
+
+  last tree to typer: Ident(scala)
+       tree position: line 60 of file:///Users/monicamcguigan/projects/pbt-study/src/main/scala/Gen.scala
+            tree tpe: scala.type
+              symbol: final package scala
+   symbol definition: final package scala (a ModuleSymbol)
+      symbol package: <none>
+       symbol owners: package scala
+           call site: <none> in <none>
+
+== Source file context for tree position ==
+
+    57 
+    58   def name: g
+    59 
+    60 }
+    61 
+java.util.concurrent.CompletionException: java.lang.AssertionError: AssertionError (GSON 2.10.1): AssertionError (GSON 2.10.1): assertion failed: 
+  Gen
+     while compiling: file:///Users/monicamcguigan/projects/pbt-study/src/main/scala/Gen.scala
+        during phase: globalPhase=<no phase>, enteringPhase=typer
+     library version: version 2.12.18
+    compiler version: version 2.12.18
+  reconstructed args: -classpath /Users/monicamcguigan/projects/pbt-study/.bloop/root/bloop-bsp-clients-classes/classes-Metals-Ou50fH2hR4S-RdQ0H3RNTQ==:/Users/monicamcguigan/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/sourcegraph/semanticdb-javac/0.9.8/semanticdb-javac-0.9.8.jar:/Users/monicamcguigan/.sbt/boot/scala-2.12.18/lib/scala-library.jar:/Users/monicamcguigan/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest_2.12/3.2.14/scalatest_2.12-3.2.14.jar:/Users/monicamcguigan/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest-core_2.12/3.2.14/scalatest-core_2.12-3.2.14.jar:/Users/monicamcguigan/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest-featurespec_2.12/3.2.14/scalatest-featurespec_2.12-3.2.14.jar:/Users/monicamcguigan/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest-flatspec_2.12/3.2.14/scalatest-flatspec_2.12-3.2.14.jar:/Users/monicamcguigan/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest-freespec_2.12/3.2.14/scalatest-freespec_2.12-3.2.14.jar:/Users/monicamcguigan/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest-funsuite_2.12/3.2.14/scalatest-funsuite_2.12-3.2.14.jar:/Users/monicamcguigan/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest-funspec_2.12/3.2.14/scalatest-funspec_2.12-3.2.14.jar:/Users/monicamcguigan/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest-propspec_2.12/3.2.14/scalatest-propspec_2.12-3.2.14.jar:/Users/monicamcguigan/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest-refspec_2.12/3.2.14/scalatest-refspec_2.12-3.2.14.jar:/Users/monicamcguigan/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest-wordspec_2.12/3.2.14/scalatest-wordspec_2.12-3.2.14.jar:/Users/monicamcguigan/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest-diagrams_2.12/3.2.14/scalatest-diagrams_2.12-3.2.14.jar:/Users/monicamcguigan/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest-matchers-core_2.12/3.2.14/scalatest-matchers-core_2.12-3.2.14.jar:/Users/monicamcguigan/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest-shouldmatchers_2.12/3.2.14/scalatest-shouldmatchers_2.12-3.2.14.jar:/Users/monicamcguigan/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest-mustmatchers_2.12/3.2.14/scalatest-mustmatchers_2.12-3.2.14.jar:/Users/monicamcguigan/.sbt/boot/scala-2.12.18/lib/scala-reflect.jar:/Users/monicamcguigan/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest-compatible/3.2.14/scalatest-compatible-3.2.14.jar:/Users/monicamcguigan/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalactic/scalactic_2.12/3.2.14/scalactic_2.12-3.2.14.jar:/Users/monicamcguigan/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/2.1.0/scala-xml_2.12-2.1.0.jar -Xplugin-require:semanticdb -Yrangepos -Ymacro-expand:discard -Ycache-plugin-class-loader:last-modified -Ypresentation-any-thread
+
+  last tree to typer: Ident(scala)
+       tree position: line 60 of file:///Users/monicamcguigan/projects/pbt-study/src/main/scala/Gen.scala
+            tree tpe: scala.type
+              symbol: final package scala
+   symbol definition: final package scala (a ModuleSymbol)
+      symbol package: <none>
+       symbol owners: package scala
+           call site: <none> in <none>
+
+== Source file context for tree position ==
+
+    57 
+    58   def name: g
+    59 
+    60 }
+    61 
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:314)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:319)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506)
+	at java.base/java.util.concurrent.CompletableFuture.complete(CompletableFuture.java:2143)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:42)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:484)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	at java.base/java.lang.Thread.run(Thread.java:831)
+Caused by: java.lang.AssertionError: AssertionError (GSON 2.10.1): AssertionError (GSON 2.10.1): assertion failed: 
+  Gen
+     while compiling: file:///Users/monicamcguigan/projects/pbt-study/src/main/scala/Gen.scala
+        during phase: globalPhase=<no phase>, enteringPhase=typer
+     library version: version 2.12.18
+    compiler version: version 2.12.18
+  reconstructed args: -classpath /Users/monicamcguigan/projects/pbt-study/.bloop/root/bloop-bsp-clients-classes/classes-Metals-Ou50fH2hR4S-RdQ0H3RNTQ==:/Users/monicamcguigan/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/sourcegraph/semanticdb-javac/0.9.8/semanticdb-javac-0.9.8.jar:/Users/monicamcguigan/.sbt/boot/scala-2.12.18/lib/scala-library.jar:/Users/monicamcguigan/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest_2.12/3.2.14/scalatest_2.12-3.2.14.jar:/Users/monicamcguigan/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest-core_2.12/3.2.14/scalatest-core_2.12-3.2.14.jar:/Users/monicamcguigan/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest-featurespec_2.12/3.2.14/scalatest-featurespec_2.12-3.2.14.jar:/Users/monicamcguigan/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest-flatspec_2.12/3.2.14/scalatest-flatspec_2.12-3.2.14.jar:/Users/monicamcguigan/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest-freespec_2.12/3.2.14/scalatest-freespec_2.12-3.2.14.jar:/Users/monicamcguigan/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest-funsuite_2.12/3.2.14/scalatest-funsuite_2.12-3.2.14.jar:/Users/monicamcguigan/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest-funspec_2.12/3.2.14/scalatest-funspec_2.12-3.2.14.jar:/Users/monicamcguigan/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest-propspec_2.12/3.2.14/scalatest-propspec_2.12-3.2.14.jar:/Users/monicamcguigan/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest-refspec_2.12/3.2.14/scalatest-refspec_2.12-3.2.14.jar:/Users/monicamcguigan/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest-wordspec_2.12/3.2.14/scalatest-wordspec_2.12-3.2.14.jar:/Users/monicamcguigan/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest-diagrams_2.12/3.2.14/scalatest-diagrams_2.12-3.2.14.jar:/Users/monicamcguigan/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest-matchers-core_2.12/3.2.14/scalatest-matchers-core_2.12-3.2.14.jar:/Users/monicamcguigan/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest-shouldmatchers_2.12/3.2.14/scalatest-shouldmatchers_2.12-3.2.14.jar:/Users/monicamcguigan/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest-mustmatchers_2.12/3.2.14/scalatest-mustmatchers_2.12-3.2.14.jar:/Users/monicamcguigan/.sbt/boot/scala-2.12.18/lib/scala-reflect.jar:/Users/monicamcguigan/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest-compatible/3.2.14/scalatest-compatible-3.2.14.jar:/Users/monicamcguigan/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalactic/scalactic_2.12/3.2.14/scalactic_2.12-3.2.14.jar:/Users/monicamcguigan/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/2.1.0/scala-xml_2.12-2.1.0.jar -Xplugin-require:semanticdb -Yrangepos -Ymacro-expand:discard -Ycache-plugin-class-loader:last-modified -Ypresentation-any-thread
+
+  last tree to typer: Ident(scala)
+       tree position: line 60 of file:///Users/monicamcguigan/projects/pbt-study/src/main/scala/Gen.scala
+            tree tpe: scala.type
+              symbol: final package scala
+   symbol definition: final package scala (a ModuleSymbol)
+      symbol package: <none>
+       symbol owners: package scala
+           call site: <none> in <none>
+
+== Source file context for tree position ==
+
+    57 
+    58   def name: g
+    59 
+    60 }
+    61 
+	at com.google.gson.Gson.toJson(Gson.java:846)
+	at com.google.gson.Gson.toJson(Gson.java:812)
+	at org.eclipse.lsp4j.jsonrpc.json.MessageJsonHandler.serialize(MessageJsonHandler.java:145)
+	at org.eclipse.lsp4j.jsonrpc.json.MessageJsonHandler.serialize(MessageJsonHandler.java:140)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageConsumer.consume(StreamMessageConsumer.java:59)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.lambda$handleRequest$1(RemoteEndpoint.java:281)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714)
+	... 8 more
+Caused by: java.lang.AssertionError: AssertionError (GSON 2.10.1): assertion failed: 
+  Gen
+     while compiling: file:///Users/monicamcguigan/projects/pbt-study/src/main/scala/Gen.scala
+        during phase: globalPhase=<no phase>, enteringPhase=typer
+     library version: version 2.12.18
+    compiler version: version 2.12.18
+  reconstructed args: -classpath /Users/monicamcguigan/projects/pbt-study/.bloop/root/bloop-bsp-clients-classes/classes-Metals-Ou50fH2hR4S-RdQ0H3RNTQ==:/Users/monicamcguigan/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/sourcegraph/semanticdb-javac/0.9.8/semanticdb-javac-0.9.8.jar:/Users/monicamcguigan/.sbt/boot/scala-2.12.18/lib/scala-library.jar:/Users/monicamcguigan/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest_2.12/3.2.14/scalatest_2.12-3.2.14.jar:/Users/monicamcguigan/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest-core_2.12/3.2.14/scalatest-core_2.12-3.2.14.jar:/Users/monicamcguigan/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest-featurespec_2.12/3.2.14/scalatest-featurespec_2.12-3.2.14.jar:/Users/monicamcguigan/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest-flatspec_2.12/3.2.14/scalatest-flatspec_2.12-3.2.14.jar:/Users/monicamcguigan/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest-freespec_2.12/3.2.14/scalatest-freespec_2.12-3.2.14.jar:/Users/monicamcguigan/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest-funsuite_2.12/3.2.14/scalatest-funsuite_2.12-3.2.14.jar:/Users/monicamcguigan/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest-funspec_2.12/3.2.14/scalatest-funspec_2.12-3.2.14.jar:/Users/monicamcguigan/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest-propspec_2.12/3.2.14/scalatest-propspec_2.12-3.2.14.jar:/Users/monicamcguigan/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest-refspec_2.12/3.2.14/scalatest-refspec_2.12-3.2.14.jar:/Users/monicamcguigan/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest-wordspec_2.12/3.2.14/scalatest-wordspec_2.12-3.2.14.jar:/Users/monicamcguigan/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest-diagrams_2.12/3.2.14/scalatest-diagrams_2.12-3.2.14.jar:/Users/monicamcguigan/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest-matchers-core_2.12/3.2.14/scalatest-matchers-core_2.12-3.2.14.jar:/Users/monicamcguigan/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest-shouldmatchers_2.12/3.2.14/scalatest-shouldmatchers_2.12-3.2.14.jar:/Users/monicamcguigan/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest-mustmatchers_2.12/3.2.14/scalatest-mustmatchers_2.12-3.2.14.jar:/Users/monicamcguigan/.sbt/boot/scala-2.12.18/lib/scala-reflect.jar:/Users/monicamcguigan/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest-compatible/3.2.14/scalatest-compatible-3.2.14.jar:/Users/monicamcguigan/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalactic/scalactic_2.12/3.2.14/scalactic_2.12-3.2.14.jar:/Users/monicamcguigan/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/2.1.0/scala-xml_2.12-2.1.0.jar -Xplugin-require:semanticdb -Yrangepos -Ymacro-expand:discard -Ycache-plugin-class-loader:last-modified -Ypresentation-any-thread
+
+  last tree to typer: Ident(scala)
+       tree position: line 60 of file:///Users/monicamcguigan/projects/pbt-study/src/main/scala/Gen.scala
+            tree tpe: scala.type
+              symbol: final package scala
+   symbol definition: final package scala (a ModuleSymbol)
+      symbol package: <none>
+       symbol owners: package scala
+           call site: <none> in <none>
+
+== Source file context for tree position ==
+
+    57 
+    58   def name: g
+    59 
+    60 }
+    61 
+	at com.google.gson.Gson.toJson(Gson.java:846)
+	at org.eclipse.lsp4j.jsonrpc.json.adapters.MessageTypeAdapter.write(MessageTypeAdapter.java:423)
+	at org.eclipse.lsp4j.jsonrpc.json.adapters.MessageTypeAdapter.write(MessageTypeAdapter.java:55)
+	at com.google.gson.Gson.toJson(Gson.java:842)
+	... 14 more
+Caused by: java.lang.AssertionError: assertion failed: 
+  Gen
+     while compiling: file:///Users/monicamcguigan/projects/pbt-study/src/main/scala/Gen.scala
+        during phase: globalPhase=<no phase>, enteringPhase=typer
+     library version: version 2.12.18
+    compiler version: version 2.12.18
+  reconstructed args: -classpath /Users/monicamcguigan/projects/pbt-study/.bloop/root/bloop-bsp-clients-classes/classes-Metals-Ou50fH2hR4S-RdQ0H3RNTQ==:/Users/monicamcguigan/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/sourcegraph/semanticdb-javac/0.9.8/semanticdb-javac-0.9.8.jar:/Users/monicamcguigan/.sbt/boot/scala-2.12.18/lib/scala-library.jar:/Users/monicamcguigan/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest_2.12/3.2.14/scalatest_2.12-3.2.14.jar:/Users/monicamcguigan/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest-core_2.12/3.2.14/scalatest-core_2.12-3.2.14.jar:/Users/monicamcguigan/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest-featurespec_2.12/3.2.14/scalatest-featurespec_2.12-3.2.14.jar:/Users/monicamcguigan/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest-flatspec_2.12/3.2.14/scalatest-flatspec_2.12-3.2.14.jar:/Users/monicamcguigan/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest-freespec_2.12/3.2.14/scalatest-freespec_2.12-3.2.14.jar:/Users/monicamcguigan/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest-funsuite_2.12/3.2.14/scalatest-funsuite_2.12-3.2.14.jar:/Users/monicamcguigan/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest-funspec_2.12/3.2.14/scalatest-funspec_2.12-3.2.14.jar:/Users/monicamcguigan/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest-propspec_2.12/3.2.14/scalatest-propspec_2.12-3.2.14.jar:/Users/monicamcguigan/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest-refspec_2.12/3.2.14/scalatest-refspec_2.12-3.2.14.jar:/Users/monicamcguigan/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest-wordspec_2.12/3.2.14/scalatest-wordspec_2.12-3.2.14.jar:/Users/monicamcguigan/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest-diagrams_2.12/3.2.14/scalatest-diagrams_2.12-3.2.14.jar:/Users/monicamcguigan/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest-matchers-core_2.12/3.2.14/scalatest-matchers-core_2.12-3.2.14.jar:/Users/monicamcguigan/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest-shouldmatchers_2.12/3.2.14/scalatest-shouldmatchers_2.12-3.2.14.jar:/Users/monicamcguigan/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest-mustmatchers_2.12/3.2.14/scalatest-mustmatchers_2.12-3.2.14.jar:/Users/monicamcguigan/.sbt/boot/scala-2.12.18/lib/scala-reflect.jar:/Users/monicamcguigan/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest-compatible/3.2.14/scalatest-compatible-3.2.14.jar:/Users/monicamcguigan/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalactic/scalactic_2.12/3.2.14/scalactic_2.12-3.2.14.jar:/Users/monicamcguigan/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/2.1.0/scala-xml_2.12-2.1.0.jar -Xplugin-require:semanticdb -Yrangepos -Ymacro-expand:discard -Ycache-plugin-class-loader:last-modified -Ypresentation-any-thread
+
+  last tree to typer: Ident(scala)
+       tree position: line 60 of file:///Users/monicamcguigan/projects/pbt-study/src/main/scala/Gen.scala
+            tree tpe: scala.type
+              symbol: final package scala
+   symbol definition: final package scala (a ModuleSymbol)
+      symbol package: <none>
+       symbol owners: package scala
+           call site: <none> in <none>
+
+== Source file context for tree position ==
+
+    57 
+    58   def name: g
+    59 
+    60 }
+    61 
+	at scala.reflect.internal.SymbolTable.throwAssertionError(SymbolTable.scala:185)
+	at scala.reflect.internal.Symbols$Symbol.completeInfo(Symbols.scala:1525)
+	at scala.reflect.internal.Symbols$Symbol.info(Symbols.scala:1514)
+	at scala.reflect.internal.Types$TypeRef.baseClasses(Types.scala:2280)
+	at scala.reflect.internal.Types$SimpleTypeProxy.baseClasses(Types.scala:172)
+	at scala.reflect.internal.Types$SimpleTypeProxy.baseClasses$(Types.scala:172)
+	at scala.reflect.internal.Types$SingletonType.baseClasses(Types.scala:1108)
+	at scala.reflect.internal.Types$SimpleTypeProxy.baseClasses(Types.scala:172)
+	at scala.reflect.internal.Types$SimpleTypeProxy.baseClasses$(Types.scala:172)
+	at scala.reflect.internal.Types$SingletonType.baseClasses(Types.scala:1108)
+	at scala.reflect.internal.tpe.FindMembers$FindMemberBase.init(FindMembers.scala:36)
+	at scala.reflect.internal.tpe.FindMembers$FindMember.init(FindMembers.scala:257)
+	at scala.reflect.internal.Types$Type.$anonfun$findMember$1(Types.scala:1042)
+	at scala.reflect.internal.Types$Type.findMemberInternal$1(Types.scala:1041)
+	at scala.reflect.internal.Types$Type.findMember(Types.scala:1046)
+	at scala.reflect.internal.Types$Type.memberBasedOnName(Types.scala:672)
+	at scala.reflect.internal.Types$Type.member(Types.scala:636)
+	at scala.tools.nsc.typechecker.Contexts$SymbolLookup.apply(Contexts.scala:1197)
+	at scala.tools.nsc.typechecker.Contexts$Context.$anonfun$lookupSymbol$1(Contexts.scala:1075)
+	at scala.tools.nsc.typechecker.Contexts$Context.lookupSymbol(Contexts.scala:1075)
+	at scala.meta.internal.pc.Signatures$ShortenedNames$.$anonfun$synthesize$1(Signatures.scala:54)
+	at scala.meta.internal.pc.Signatures$ShortenedNames.tryShortenName(Signatures.scala:165)
+	at scala.meta.internal.pc.Signatures$ShortenedNames.tryShortenName(Signatures.scala:190)
+	at scala.meta.internal.pc.MetalsGlobal.loop$1(MetalsGlobal.scala:415)
+	at scala.meta.internal.pc.MetalsGlobal.loop$1(MetalsGlobal.scala:367)
+	at scala.meta.internal.pc.MetalsGlobal.shortType(MetalsGlobal.scala:497)
+	at scala.meta.internal.pc.Signatures$ShortenedNames$.synthesize(Signatures.scala:59)
+	at scala.meta.internal.pc.CompletionProvider.$anonfun$completions$1(CompletionProvider.scala:175)
+	at scala.collection.Iterator$$anon$10.next(Iterator.scala:461)
+	at scala.collection.Iterator.toStream(Iterator.scala:1417)
+	at scala.collection.Iterator.toStream$(Iterator.scala:1416)
+	at scala.collection.AbstractIterator.toStream(Iterator.scala:1431)
+	at scala.collection.Iterator.$anonfun$toStream$1(Iterator.scala:1417)
+	at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1173)
+	at scala.collection.immutable.Stream$Cons.tail(Stream.scala:1163)
+	at scala.collection.immutable.StreamIterator.$anonfun$next$1(Stream.scala:1061)
+	at scala.collection.immutable.StreamIterator$LazyCell.v$lzycompute(Stream.scala:1050)
+	at scala.collection.immutable.StreamIterator$LazyCell.v(Stream.scala:1050)
+	at scala.collection.immutable.StreamIterator.hasNext(Stream.scala:1055)
+	at scala.collection.convert.Wrappers$IteratorWrapper.hasNext(Wrappers.scala:32)
+	at org.eclipse.lsp4j.jsonrpc.json.adapters.CollectionTypeAdapter.write(CollectionTypeAdapter.java:134)
+	at org.eclipse.lsp4j.jsonrpc.json.adapters.CollectionTypeAdapter.write(CollectionTypeAdapter.java:40)
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.write(TypeAdapterRuntimeTypeWrapper.java:70)
+	at com.google.gson.internal.bind.ReflectiveTypeAdapterFactory$1.write(ReflectiveTypeAdapterFactory.java:196)
+	at com.google.gson.internal.bind.ReflectiveTypeAdapterFactory$Adapter.write(ReflectiveTypeAdapterFactory.java:368)
+	at com.google.gson.Gson.toJson(Gson.java:842)
+	... 17 more
+
+2023.12.18 20:35:32 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:35:32 INFO  time: compiled root in 74ms[0m
+2023.12.18 20:35:37 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:35:37 INFO  time: compiled root in 35ms[0m
+2023.12.18 20:35:43 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:35:43 INFO  time: compiled root in 86ms[0m
+2023.12.18 20:35:44 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:35:44 INFO  time: compiled root in 85ms[0m
+2023.12.18 20:35:57 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:35:58 INFO  time: compiled root in 1.09s[0m
+2023.12.18 20:36:04 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:36:04 INFO  time: compiled root in 43ms[0m
+2023.12.18 20:36:10 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:36:10 INFO  time: compiled root in 0.11s[0m
+2023.12.18 20:36:19 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:36:19 INFO  time: compiled root in 0.11s[0m
+Dec 18, 2023 8:36:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: scala.reflect.internal.Symbols$CyclicReference: illegal cyclic reference involving value <import>
+java.util.concurrent.CompletionException: scala.reflect.internal.Symbols$CyclicReference: illegal cyclic reference involving value <import>
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:314)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:319)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506)
+	at java.base/java.util.concurrent.CompletableFuture.complete(CompletableFuture.java:2143)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:42)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:484)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	at java.base/java.lang.Thread.run(Thread.java:831)
+Caused by: scala.reflect.internal.Symbols$CyclicReference: illegal cyclic reference involving value <import>
+
+2023.12.18 20:36:22 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:36:22 INFO  time: compiled root in 80ms[0m
+2023.12.18 20:36:28 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:36:28 INFO  time: compiled root in 71ms[0m
+2023.12.18 20:36:30 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:36:30 INFO  time: compiled root in 0.1s[0m
+2023.12.18 20:36:33 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:36:33 INFO  time: compiled root in 72ms[0m
+2023.12.18 20:36:42 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:36:42 INFO  time: compiled root in 78ms[0m
+2023.12.18 20:36:49 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:36:49 INFO  time: compiled root in 43ms[0m
+Dec 18, 2023 8:36:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4188
+2023.12.18 20:36:53 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:36:53 INFO  time: compiled root in 41ms[0m
+2023.12.18 20:36:55 INFO  compiling root (1 scala source)[0m
+2023.12.18 20:36:55 INFO  time: compiled root in 0.86s[0m
+2023.12.18 20:37:30 WARN  no build target for: /Users/monicamcguigan/projects/pbt-study/src/test/GenSpec.scala[0m
+Dec 18, 2023 8:37:38 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/monicamcguigan/projects/pbt-study/.metals/.reports/metals-full/2023-12-18/r_compiler-error_20-37-38-624.md
+Dec 18, 2023 8:37:41 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/monicamcguigan/projects/pbt-study/.metals/.reports/metals-full/2023-12-18/r_compiler-error_20-37-41-082.md
+Dec 18, 2023 8:37:42 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/monicamcguigan/projects/pbt-study/.metals/.reports/metals-full/2023-12-18/r_compiler-error_20-37-42-349.md
+2023.12.18 20:37:44 WARN  no build target for: /Users/monicamcguigan/projects/pbt-study/src/test/GenSpec.scala[0m
+2023.12.18 20:37:48 WARN  no build target for: /Users/monicamcguigan/projects/pbt-study/src/test/GenSpec.scala[0m
+2023.12.18 20:37:58 WARN  no build target for: /Users/monicamcguigan/projects/pbt-study/src/test/GenSpec.scala[0m
+Dec 18, 2023 8:38:00 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/monicamcguigan/projects/pbt-study/.metals/.reports/metals-full/2023-12-18/r_compiler-error_20-38-00-875.md
+2023.12.18 20:38:01 WARN  no build target for: /Users/monicamcguigan/projects/pbt-study/src/test/GenSpec.scala[0m
+Dec 18, 2023 8:38:01 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/monicamcguigan/projects/pbt-study/.metals/.reports/metals-full/2023-12-18/r_compiler-error_20-38-01-524.md
+Dec 18, 2023 8:38:03 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/monicamcguigan/projects/pbt-study/.metals/.reports/metals-full/2023-12-18/r_compiler-error_20-38-03-227.md
+Dec 18, 2023 8:38:04 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/monicamcguigan/projects/pbt-study/.metals/.reports/metals-full/2023-12-18/r_compiler-error_20-38-04-455.md
+2023.12.18 20:38:05 WARN  no build target for: /Users/monicamcguigan/projects/pbt-study/src/test/GenSpec.scala[0m
+Dec 18, 2023 8:38:05 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/monicamcguigan/projects/pbt-study/.metals/.reports/metals-full/2023-12-18/r_compiler-error_20-38-05-118.md
+Dec 18, 2023 8:38:05 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/monicamcguigan/projects/pbt-study/.metals/.reports/metals-full/2023-12-18/r_compiler-error_20-38-05-932.md
+Dec 18, 2023 8:38:06 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/monicamcguigan/projects/pbt-study/.metals/.reports/metals-full/2023-12-18/r_compiler-error_20-38-06-764.md
+Dec 18, 2023 8:38:08 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/monicamcguigan/projects/pbt-study/.metals/.reports/metals-full/2023-12-18/r_compiler-error_20-38-08-640.md
+2023.12.18 20:38:11 WARN  no build target for: /Users/monicamcguigan/projects/pbt-study/src/test/GenSpec.scala[0m
+2023.12.18 20:38:15 WARN  no build target for: /Users/monicamcguigan/projects/pbt-study/src/test/GenSpec.scala[0m
+2023.12.18 20:38:17 WARN  no build target for: /Users/monicamcguigan/projects/pbt-study/src/test/GenSpec.scala[0m
+2023.12.18 20:38:21 WARN  no build target for: /Users/monicamcguigan/projects/pbt-study/src/test/GenSpec.scala[0m
+2023.12.18 20:38:26 WARN  no build target for: /Users/monicamcguigan/projects/pbt-study/src/test/GenSpec.scala[0m
+2023.12.18 20:38:35 WARN  no build target for: /Users/monicamcguigan/projects/pbt-study/src/test/GenSpec.scala[0m
+2023.12.18 20:38:38 WARN  no build target for: /Users/monicamcguigan/projects/pbt-study/src/test/GenSpec.scala[0m
+2023.12.18 20:38:40 WARN  no build target for: /Users/monicamcguigan/projects/pbt-study/src/test/GenSpec.scala[0m
+2023.12.18 20:38:43 WARN  no build target for: /Users/monicamcguigan/projects/pbt-study/src/test/GenSpec.scala[0m
+Dec 18, 2023 8:38:45 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/monicamcguigan/projects/pbt-study/.metals/.reports/metals-full/2023-12-18/r_compiler-error_20-38-45-527.md
+Dec 18, 2023 8:38:46 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/monicamcguigan/projects/pbt-study/.metals/.reports/metals-full/2023-12-18/r_compiler-error_20-38-46-824.md
+2023.12.18 20:38:47 WARN  no build target for: /Users/monicamcguigan/projects/pbt-study/src/test/GenSpec.scala[0m
+2023.12.18 20:38:51 WARN  no build target for: /Users/monicamcguigan/projects/pbt-study/src/test/GenSpec.scala[0m
+2023.12.18 20:38:53 WARN  no build target for: /Users/monicamcguigan/projects/pbt-study/src/test/GenSpec.scala[0m
+Dec 18, 2023 8:38:55 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/monicamcguigan/projects/pbt-study/.metals/.reports/metals-full/2023-12-18/r_compiler-error_20-38-55-374.md
+Dec 18, 2023 8:38:55 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/monicamcguigan/projects/pbt-study/.metals/.reports/metals-full/2023-12-18/r_compiler-error_20-38-55-888.md
+2023.12.18 20:38:56 WARN  no build target for: /Users/monicamcguigan/projects/pbt-study/src/test/GenSpec.scala[0m
+Dec 18, 2023 8:38:56 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/monicamcguigan/projects/pbt-study/.metals/.reports/metals-full/2023-12-18/r_compiler-error_20-38-56-505.md
+Dec 18, 2023 8:38:59 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/monicamcguigan/projects/pbt-study/.metals/.reports/metals-full/2023-12-18/r_compiler-error_20-38-59-113.md
+Dec 18, 2023 8:39:02 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/monicamcguigan/projects/pbt-study/.metals/.reports/metals-full/2023-12-18/r_compiler-error_20-39-02-779.md
+2023.12.18 20:39:03 WARN  no build target for: /Users/monicamcguigan/projects/pbt-study/src/test/GenSpec.scala[0m
+Dec 18, 2023 8:39:03 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/monicamcguigan/projects/pbt-study/.metals/.reports/metals-full/2023-12-18/r_compiler-error_20-39-03-436.md
+Dec 18, 2023 8:39:09 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/monicamcguigan/projects/pbt-study/.metals/.reports/metals-full/2023-12-18/r_compiler-error_20-39-09-853.md
+2023.12.18 20:39:10 WARN  no build target for: /Users/monicamcguigan/projects/pbt-study/src/test/GenSpec.scala[0m
+Dec 18, 2023 8:39:10 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/monicamcguigan/projects/pbt-study/.metals/.reports/metals-full/2023-12-18/r_compiler-error_20-39-10-544.md
+Dec 18, 2023 8:39:10 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/monicamcguigan/projects/pbt-study/.metals/.reports/metals-full/2023-12-18/r_compiler-error_20-39-10-977.md
+2023.12.18 20:39:11 WARN  no build target for: /Users/monicamcguigan/projects/pbt-study/src/test/GenSpec.scala[0m
+Dec 18, 2023 8:39:11 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/monicamcguigan/projects/pbt-study/.metals/.reports/metals-full/2023-12-18/r_compiler-error_20-39-11-636.md
+Dec 18, 2023 8:39:13 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/monicamcguigan/projects/pbt-study/.metals/.reports/metals-full/2023-12-18/r_compiler-error_20-39-13-515.md
+Dec 18, 2023 8:39:14 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/monicamcguigan/projects/pbt-study/.metals/.reports/metals-full/2023-12-18/r_compiler-error_20-39-14-000.md
+Dec 18, 2023 8:39:14 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/monicamcguigan/projects/pbt-study/.metals/.reports/metals-full/2023-12-18/r_compiler-error_20-39-14-411.md
+2023.12.18 20:39:15 WARN  no build target for: /Users/monicamcguigan/projects/pbt-study/src/test/GenSpec.scala[0m
+Dec 18, 2023 8:39:15 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/monicamcguigan/projects/pbt-study/.metals/.reports/metals-full/2023-12-18/r_compiler-error_20-39-15-112.md
+2023.12.18 20:39:16 WARN  no build target for: /Users/monicamcguigan/projects/pbt-study/src/test/GenSpec.scala[0m
+2023.12.18 20:39:22 WARN  no build target for: /Users/monicamcguigan/projects/pbt-study/src/test/GenSpec.scala[0m
+2023.12.18 20:39:28 WARN  no build target for: /Users/monicamcguigan/projects/pbt-study/src/test/GenSpec.scala[0m
+2023.12.18 20:39:31 WARN  no build target for: /Users/monicamcguigan/projects/pbt-study/src/test/GenSpec.scala[0m
+Dec 18, 2023 8:39:41 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/monicamcguigan/projects/pbt-study/.metals/.reports/metals-full/2023-12-18/r_compiler-error_20-39-41-098.md
+2023.12.18 20:39:42 WARN  no build target for: /Users/monicamcguigan/projects/pbt-study/src/test/GenSpec.scala[0m
+2023.12.18 20:39:46 WARN  no build target for: /Users/monicamcguigan/projects/pbt-study/src/test/GenSpec.scala[0m
+2023.12.18 20:39:48 WARN  no build target for: /Users/monicamcguigan/projects/pbt-study/src/test/GenSpec.scala[0m
+2023.12.18 20:39:50 WARN  no build target for: /Users/monicamcguigan/projects/pbt-study/src/test/GenSpec.scala[0m
+Dec 18, 2023 8:39:55 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/monicamcguigan/projects/pbt-study/.metals/.reports/metals-full/2023-12-18/r_compiler-error_20-39-55-440.md
+Dec 18, 2023 8:39:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4839
+2023.12.18 20:39:56 WARN  no build target for: /Users/monicamcguigan/projects/pbt-study/src/test/GenSpec.scala[0m
+2023.12.18 20:40:00 WARN  no build target for: /Users/monicamcguigan/projects/pbt-study/src/test/GenSpec.scala[0m
+2023.12.18 20:40:03 WARN  no build target for: /Users/monicamcguigan/projects/pbt-study/src/test/GenSpec.scala[0m
+Dec 18, 2023 8:40:04 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/monicamcguigan/projects/pbt-study/.metals/.reports/metals-full/2023-12-18/r_compiler-error_20-40-04-857.md
+Dec 18, 2023 8:40:05 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/monicamcguigan/projects/pbt-study/.metals/.reports/metals-full/2023-12-18/r_compiler-error_20-40-05-385.md
+Dec 18, 2023 8:40:06 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/monicamcguigan/projects/pbt-study/.metals/.reports/metals-full/2023-12-18/r_compiler-error_20-40-06-080.md
+2023.12.18 20:40:07 WARN  no build target for: /Users/monicamcguigan/projects/pbt-study/src/test/GenSpec.scala[0m
+2023.12.18 20:40:12 WARN  no build target for: /Users/monicamcguigan/projects/pbt-study/src/test/GenSpec.scala[0m
+2023.12.18 20:40:13 WARN  no build target for: /Users/monicamcguigan/projects/pbt-study/src/test/GenSpec.scala[0m
+2023.12.18 20:43:12 WARN  no build target for: /Users/monicamcguigan/projects/pbt-study/src/test/GenSpec.scala[0m
+Dec 18, 2023 8:43:15 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/monicamcguigan/projects/pbt-study/.metals/.reports/metals-full/2023-12-18/r_compiler-error_20-43-15-015.md
+2023.12.18 20:43:15 WARN  no build target for: /Users/monicamcguigan/projects/pbt-study/src/test/GenSpec.scala[0m
+Dec 18, 2023 8:43:15 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/monicamcguigan/projects/pbt-study/.metals/.reports/metals-full/2023-12-18/r_compiler-error_20-43-15-679.md
+Dec 18, 2023 8:43:17 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/monicamcguigan/projects/pbt-study/.metals/.reports/metals-full/2023-12-18/r_compiler-error_20-43-17-833.md
+Dec 18, 2023 8:43:29 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/monicamcguigan/projects/pbt-study/.metals/.reports/metals-full/2023-12-18/r_compiler-error_20-43-29-218.md
+Dec 18, 2023 8:43:31 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/monicamcguigan/projects/pbt-study/.metals/.reports/metals-full/2023-12-18/r_compiler-error_20-43-31-236.md
+Dec 18, 2023 8:43:31 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/monicamcguigan/projects/pbt-study/.metals/.reports/metals-full/2023-12-18/r_compiler-error_20-43-31-632.md
+Dec 18, 2023 8:43:32 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/monicamcguigan/projects/pbt-study/.metals/.reports/metals-full/2023-12-18/r_compiler-error_20-43-32-265.md
+Dec 18, 2023 8:43:33 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/monicamcguigan/projects/pbt-study/.metals/.reports/metals-full/2023-12-18/r_compiler-error_20-43-33-833.md
+Dec 18, 2023 8:43:35 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/monicamcguigan/projects/pbt-study/.metals/.reports/metals-full/2023-12-18/r_compiler-error_20-43-35-184.md
+2023.12.18 20:43:37 WARN  no build target for: /Users/monicamcguigan/projects/pbt-study/src/test/GenSpec.scala[0m
+Dec 18, 2023 8:43:38 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/monicamcguigan/projects/pbt-study/.metals/.reports/metals-full/2023-12-18/r_compiler-error_20-43-38-460.md
+2023.12.18 20:43:39 WARN  no build target for: /Users/monicamcguigan/projects/pbt-study/src/test/GenSpec.scala[0m
+Dec 18, 2023 8:43:39 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /Users/monicamcguigan/projects/pbt-study/.metals/.reports/metals-full/2023-12-18/r_compiler-error_20-43-39-125.md
+2023.12.18 20:43:42 WARN  no build target for: /Users/monicamcguigan/projects/pbt-study/src/test/GenSpec.scala[0m
+2023.12.18 20:43:47 WARN  no build target for: /Users/monicamcguigan/projects/pbt-study/src/test/GenSpec.scala[0m
+2023.12.18 20:45:08 WARN  no build target for: /Users/monicamcguigan/projects/pbt-study/src/test/GenSpec.scala[0m
+2023.12.18 20:45:18 INFO  Shutting down server[0m
+2023.12.18 20:45:18 INFO  shutting down Metals[0m
+2023.12.18 20:45:18 INFO  Shut down connection with build server.[0m
+2023.12.18 20:45:18 INFO  Shut down connection with build server.[0m
+2023.12.18 20:45:18 INFO  Exiting server[0m
+2023.12.18 20:45:27 INFO  Started: Metals version 1.2.0 in folders '/Users/monicamcguigan/projects/pbt-study' for client Visual Studio Code 1.85.0.[0m
+2023.12.18 20:45:28 INFO  Attempting to connect to the build server...[0m
+2023.12.18 20:45:28 INFO  skipping build import with status 'Installed'[0m
+2023.12.18 20:45:28 INFO  Bloop uses /Users/monicamcguigan/Library/Java/JavaVirtualMachines/openjdk-16.0.2/Contents/Home defined at /Users/monicamcguigan/.bloop/bloop.json[0m
+2023.12.18 20:45:28 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/monicamcguigan/projects/pbt-study/.metals/bsp.trace.json or /Users/monicamcguigan/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+2023.12.18 20:45:28 INFO  Attempting to connect to the build server...[0m
+2023.12.18 20:45:28 INFO  Bloop uses /Users/monicamcguigan/Library/Java/JavaVirtualMachines/openjdk-16.0.2/Contents/Home defined at /Users/monicamcguigan/.bloop/bloop.json[0m
+2023.12.18 20:45:28 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/monicamcguigan/projects/pbt-study/project/.metals/bsp.trace.json or /Users/monicamcguigan/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+2023.12.18 20:45:28 INFO  time: Connected to build server in 0.42s[0m
+2023.12.18 20:45:28 INFO  Connected to Build server: Bloop v1.5.13[0m
+2023.12.18 20:45:32 INFO  no build target found for /Users/monicamcguigan/projects/pbt-study/src/test/GenSpec.scala. Using presentation compiler with project's scala-library version: 3.3.1[0m
+2023.12.18 20:45:34 INFO  time: indexed workspace in 2.35s[0m
+2023.12.18 20:45:34 WARN  no build target for: /Users/monicamcguigan/projects/pbt-study/src/test/GenSpec.scala[0m
+2023.12.18 20:45:34 WARN  no build target for: /Users/monicamcguigan/projects/pbt-study/src/test/GenSpec.scala[0m
+2023.12.18 20:45:38 INFO  time: code lens generation in 3.33s[0m
+2023.12.18 20:45:38 INFO  time: code lens generation in 3.86s[0m
+Dec 18, 2023 8:45:59 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2023.12.18 20:47:30 INFO  running '/Users/monicamcguigan/Library/Java/JavaVirtualMachines/openjdk-16.0.2/Contents/Home/bin/java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar /var/folders/69/rwdly64d4dd9fklv41q96vnc0000gn/T/metals13050340588604435452/sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'[0m
+2023.12.18 20:47:31 INFO  [info] welcome to sbt 1.9.7 (Oracle Corporation Java 16.0.2)[0m
+2023.12.18 20:47:31 INFO  [info] loading settings for project pbt-study-build-build from metals.sbt ...[0m
+2023.12.18 20:47:33 INFO  [info] loading project definition from /Users/monicamcguigan/projects/pbt-study/project/project[0m
+2023.12.18 20:47:33 INFO  [info] loading settings for project pbt-study-build from metals.sbt ...[0m
+2023.12.18 20:47:33 INFO  [info] loading project definition from /Users/monicamcguigan/projects/pbt-study/project[0m
+2023.12.18 20:47:35 INFO  [success] Generated .bloop/pbt-study-build.json[0m
+2023.12.18 20:47:35 INFO  [success] Total time: 2 s, completed 18 Dec 2023, 20:47:35[0m
+2023.12.18 20:47:35 INFO  [info] loading settings for project root from build.sbt ...[0m
+2023.12.18 20:47:35 INFO  [info] set current project to study-pbt (in build file:/Users/monicamcguigan/projects/pbt-study/)[0m
+2023.12.18 20:47:37 INFO  [success] Generated .bloop/root-test.json[0m
+2023.12.18 20:47:37 INFO  [success] Generated .bloop/root.json[0m
+2023.12.18 20:47:37 INFO  [success] Total time: 1 s, completed 18 Dec 2023, 20:47:37[0m
+2023.12.18 20:47:37 INFO  time: ran 'sbt bloopInstall' in 7.05s[0m
+2023.12.18 20:47:37 INFO  Disconnecting from Bloop session...[0m
+2023.12.18 20:47:37 INFO  Shut down connection with build server.[0m
+2023.12.18 20:47:37 INFO  Shut down connection with build server.[0m
+2023.12.18 20:47:37 INFO  Attempting to connect to the build server...[0m
+2023.12.18 20:47:37 INFO  Bloop uses /Users/monicamcguigan/Library/Java/JavaVirtualMachines/openjdk-16.0.2/Contents/Home defined at /Users/monicamcguigan/.bloop/bloop.json[0m
+2023.12.18 20:47:37 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/monicamcguigan/projects/pbt-study/.metals/bsp.trace.json or /Users/monicamcguigan/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+2023.12.18 20:47:37 INFO  Attempting to connect to the build server...[0m
+2023.12.18 20:47:37 INFO  Bloop uses /Users/monicamcguigan/Library/Java/JavaVirtualMachines/openjdk-16.0.2/Contents/Home defined at /Users/monicamcguigan/.bloop/bloop.json[0m
+2023.12.18 20:47:37 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/monicamcguigan/projects/pbt-study/project/.metals/bsp.trace.json or /Users/monicamcguigan/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+2023.12.18 20:47:37 INFO  time: Connected to build server in 0.14s[0m
+2023.12.18 20:47:37 INFO  Connected to Build server: Bloop v1.5.13[0m
+2023.12.18 20:47:40 INFO  time: indexed workspace in 2.44s[0m
+2023.12.18 20:47:40 WARN  no build target for: /Users/monicamcguigan/projects/pbt-study/src/test/GenSpec.scala[0m
+2023.12.18 20:47:42 INFO  time: code lens generation in 1.72s[0m
+2023.12.18 20:48:34 WARN  no build target for: /Users/monicamcguigan/projects/pbt-study/src/test/GenSpec.scala[0m
+Dec 18, 2023 8:52:23 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2023.12.18 20:54:40 WARN  no build target for: /Users/monicamcguigan/projects/pbt-study/src/test/GenSpec.scala[0m
+2023.12.18 20:54:41 WARN  no build target for: /Users/monicamcguigan/projects/pbt-study/src/test/GenSpec.scala[0m
+2023.12.18 20:55:02 INFO  running '/Users/monicamcguigan/Library/Java/JavaVirtualMachines/openjdk-16.0.2/Contents/Home/bin/java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar /var/folders/69/rwdly64d4dd9fklv41q96vnc0000gn/T/metals7910066035661978677/sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'[0m
+2023.12.18 20:55:03 INFO  [info] welcome to sbt 1.9.7 (Oracle Corporation Java 16.0.2)[0m
+2023.12.18 20:55:03 INFO  [info] loading settings for project pbt-study-build-build from metals.sbt ...[0m
+2023.12.18 20:55:05 INFO  [info] loading project definition from /Users/monicamcguigan/projects/pbt-study/project/project[0m
+2023.12.18 20:55:05 INFO  [info] loading settings for project pbt-study-build from metals.sbt ...[0m
+2023.12.18 20:55:06 INFO  [info] loading project definition from /Users/monicamcguigan/projects/pbt-study/project[0m
+2023.12.18 20:55:08 INFO  [success] Generated .bloop/pbt-study-build.json[0m
+2023.12.18 20:55:08 INFO  [success] Total time: 2 s, completed 18 Dec 2023, 20:55:08[0m
+2023.12.18 20:55:11 INFO  [info] loading settings for project root from build.sbt ...[0m
+2023.12.18 20:55:11 INFO  [info] set current project to pbt-study (in build file:/Users/monicamcguigan/projects/pbt-study/)[0m
+2023.12.18 20:55:11 INFO  [success] Generated .bloop/root-test.json[0m
+2023.12.18 20:55:11 INFO  [success] Generated .bloop/root.json[0m
+2023.12.18 20:55:11 INFO  [success] Total time: 1 s, completed 18 Dec 2023, 20:55:12[0m
+2023.12.18 20:55:12 INFO  time: ran 'sbt bloopInstall' in 9.72s[0m
+2023.12.18 20:55:12 INFO  Disconnecting from Bloop session...[0m
+2023.12.18 20:55:12 INFO  Shut down connection with build server.[0m
+2023.12.18 20:55:12 INFO  Shut down connection with build server.[0m
+2023.12.18 20:55:12 INFO  Attempting to connect to the build server...[0m
+2023.12.18 20:55:12 INFO  Bloop uses /Users/monicamcguigan/Library/Java/JavaVirtualMachines/openjdk-16.0.2/Contents/Home defined at /Users/monicamcguigan/.bloop/bloop.json[0m
+2023.12.18 20:55:12 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/monicamcguigan/projects/pbt-study/.metals/bsp.trace.json or /Users/monicamcguigan/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+2023.12.18 20:55:12 INFO  Attempting to connect to the build server...[0m
+2023.12.18 20:55:12 INFO  Bloop uses /Users/monicamcguigan/Library/Java/JavaVirtualMachines/openjdk-16.0.2/Contents/Home defined at /Users/monicamcguigan/.bloop/bloop.json[0m
+2023.12.18 20:55:12 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/monicamcguigan/projects/pbt-study/project/.metals/bsp.trace.json or /Users/monicamcguigan/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+2023.12.18 20:55:12 INFO  time: Connected to build server in 0.21s[0m
+2023.12.18 20:55:12 INFO  Connected to Build server: Bloop v1.5.13[0m
+2023.12.18 20:55:14 INFO  time: indexed workspace in 2.32s[0m
+2023.12.18 20:55:14 WARN  no build target for: /Users/monicamcguigan/projects/pbt-study/src/test/GenSpec.scala[0m
+2023.12.18 20:55:15 INFO  compiling root (2 scala sources)[0m
+2023.12.18 20:55:17 INFO  time: compiled root in 2.12s[0m
+2023.12.18 20:57:21 INFO  skipping build import with status 'Dismissed'[0m
+2023.12.18 20:58:39 INFO  compiling root-test (1 scala source)[0m
+2023.12.18 20:58:39 INFO  time: compiled root-test in 0.58s[0m
+2023.12.18 20:58:39 INFO  compiling root-test (1 scala source)[0m
+2023.12.18 20:58:39 INFO  time: compiled root-test in 0.21s[0m
+2023.12.18 20:58:52 INFO  compiling root-test (1 scala source)[0m
+2023.12.18 20:58:52 INFO  time: compiled root-test in 62ms[0m
+2023.12.18 20:58:54 INFO  compiling root-test (1 scala source)[0m
+2023.12.18 20:58:54 INFO  time: compiled root-test in 0.16s[0m
+2023.12.18 20:58:58 INFO  compiling root-test (1 scala source)[0m
+2023.12.18 20:58:58 INFO  time: compiled root-test in 56ms[0m
+2023.12.18 20:58:58 INFO  compiling root-test (1 scala source)[0m
+2023.12.18 20:58:59 INFO  time: compiled root-test in 0.11s[0m
+2023.12.18 20:59:01 INFO  compiling root-test (1 scala source)[0m
+2023.12.18 20:59:01 INFO  time: compiled root-test in 0.11s[0m
+2023.12.18 20:59:04 INFO  compiling root-test (1 scala source)[0m
+2023.12.18 20:59:04 INFO  time: compiled root-test in 0.13s[0m
+2023.12.18 20:59:08 INFO  compiling root-test (1 scala source)[0m
+2023.12.18 20:59:08 INFO  time: compiled root-test in 0.28s[0m
+2023.12.18 20:59:11 INFO  compiling root-test (1 scala source)[0m
+2023.12.18 20:59:11 INFO  time: compiled root-test in 0.12s[0m
+2023.12.18 20:59:30 INFO  compiling root-test (1 scala source)[0m
+2023.12.18 20:59:30 INFO  time: compiled root-test in 0.14s[0m
+2023.12.18 20:59:36 INFO  compiling root-test (1 scala source)[0m
+2023.12.18 20:59:37 INFO  time: compiled root-test in 1.03s[0m
